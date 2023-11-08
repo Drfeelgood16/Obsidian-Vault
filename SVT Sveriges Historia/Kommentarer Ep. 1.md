@@ -8,4 +8,8 @@ Mjärde har funnits sedan jägarstenåldern, i Sverige det så kallade [[Mesolit
 
 I hundgravar har man hittat "Ochre" i hundgravar vilket visar importansen av hundar sedan denna period.
 
-Mycket av avsnittet handlar om Österrödskvinnan.
+Mycket av avsnittet handlar om Österödskvinnan. Ett fossil hittat i bohuslän daterat till ungefär 10000 år sedan. 
+
+Golfströmmen blir svagare en stund för ungefär 8000 år sedan. En period på ungefär ett sekel. 
+
+Det teoriseras att denna händelse leder till ökad religiös tro. Man har hittat begravningsplatser anslutna till vattnet. 
