@@ -8,3 +8,4 @@ Mjärde har funnits sedan jägarstenåldern, i Sverige det så kallade [[Mesolit
 
 I hundgravar har man hittat "Ochre" i hundgravar vilket visar importansen av hundar sedan denna period.
 
+Mycket av avsnittet handlar om Österrödskvinnan.
