@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "71a044ba2b8686ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30028f064b41901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3800f828eead7e6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World History/Prehistory/Prehistory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a4d92678f67d665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World History/Prehistory/Stone Age/Paleolithic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b65dbc1eced6083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World History/Prehistory/Prehistoric Technology/Gravettian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4dc8f6a9e41ea1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f872be16c05e898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c78ea0fd046645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e968aed73640ac19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea1ecf756f641ca9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bcb000ab65ddef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf00372159c774b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6510054abf9333c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World History/Prehistory/Prehistoric Technology/Gravettian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34d71b340142d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World History/Prehistory/Prehistoric Technology/Gravettian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc29fdcfc185331a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e917c6d465ef3fc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World History/Prehistory/Prehistoric Technology/Gravettian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b65dbc1eced6083",
+  "lastOpenFiles": [
+    "World History/Prehistory/Stone Age/Upper Paleolithic.md",
+    "World History/Prehistory/Prehistoric Technology/Aurignacian.md",
+    "World History/Prehistory/Prehistoric Technology/Gravettian.md",
+    "World History/Prehistory/Media/Gravette Point 3.jpg",
+    "World History/Prehistory/Media/Gravette Point 2.jpg",
+    "World History/Prehistory/Media/Gravette Point 1.jpg",
+    "World History/Prehistory/Media",
+    "World History/Prehistory/Prehistoric Culture/Venus figurine.md",
+    "World History/Prehistory/Prehistoric Culture",
+    "Venus figurines.md",
+    "World History/Prehistory/Human evolution/Cro-Magnon.md",
+    "World History/Prehistory/Stone Age/Middle Paleolithic.md",
+    "World History/Prehistory/Stone Age/Stone Age.md",
+    "World History/Prehistory/Human evolution/Behavioral modernity.md",
+    "World History/Prehistory/Stone Age/Lower Paleolithic.md",
+    "World History/Prehistory/Prehistoric Technology/Mousterian.md",
+    "World History/Prehistory/Prehistoric Technology/Levallois Technique.md",
+    "World History/Prehistory/Prehistoric Technology/Acheulean.md",
+    "World History/Prehistory/Prehistoric Technology/Oldowan.md",
+    "World History/Prehistory/Prehistoric Technology/Chopping tools.md",
+    "People/Nicci Sherwood.md",
+    "People",
+    "World History/Prehistory/Stone Age/Paleolithic.md",
+    "World History/Prehistory/Prehistoric Technology/Scrapers.md",
+    "World History/Prehistory/Human evolution/Homo erectus.md",
+    "World History/Prehistory/Prehistoric Technology/Abbevillian.md",
+    "World History/Prehistory/Stone Age",
+    "World History/1. Timeline.canvas",
+    "World History/Protohistory.md",
+    "World History/Prehistory/Timeline.md",
+    "World History/Prehistory/Prehistory.md",
+    "Israel-Palestine/Human shields.md",
+    "World History/Prehistory/Human evolution/Denisovans.md",
+    "World History/Prehistory/Human evolution/1. Human evolution.canvas",
+    "World History/Prehistory/Prehistoric Technology",
+    "World History/Prehistory/Human evolution",
+    "World History/Prehistory",
+    "Israel-Palestine",
+    "World History"
+  ]
+}

@@ -1,0 +1,1 @@
+The paleolithic age is the oldest section of the [[Stone Age]]. It can be further divided into the [[Lower Paleolithic]], [[Middle Paleolithic]], and [[Upper Paleolithic]]. Humans were hunter-gatherers during this age which lasted from about 3.3 million years ago to about 10 000 years ago.

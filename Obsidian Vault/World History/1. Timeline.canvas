@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ed7b0c2854bca5c5","type":"text","text":"[[Prehistory]]","x":-260,"y":-120,"width":250,"height":60},
+		{"id":"61cae1b9328da42b","x":320,"y":-121,"width":250,"height":60,"type":"text","text":"[[Ancient History]]"},
+		{"id":"26a97bddf76757cf","x":-330,"y":-280,"width":140,"height":60,"type":"text","text":"[[Stone Age]]"},
+		{"id":"f8a710cc50c7c662","x":-90,"y":-280,"width":160,"height":60,"type":"text","text":"[[Bronze Age]]"},
+		{"id":"c80c5495766eb7a7","x":-680,"y":-500,"width":186,"height":60,"type":"text","text":"[[Lower Paleolithic]]"}
+	],
+	"edges":[
+		{"id":"a30a43f7b0eaebf1","fromNode":"ed7b0c2854bca5c5","fromSide":"top","toNode":"26a97bddf76757cf","toSide":"bottom"},
+		{"id":"e26ec1acbd5ba552","fromNode":"ed7b0c2854bca5c5","fromSide":"top","toNode":"f8a710cc50c7c662","toSide":"bottom"},
+		{"id":"bffabc2adc1b62bd","fromNode":"ed7b0c2854bca5c5","fromSide":"right","toNode":"61cae1b9328da42b","toSide":"left"},
+		{"id":"41b7602cf98946b5","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"c80c5495766eb7a7","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,1 @@
+Hominini is a taxonomic group consisting of Homo and Pan (humans, chimpanzees and bonobos) notably excluding gorillas.

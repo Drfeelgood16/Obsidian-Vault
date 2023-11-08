@@ -1,0 +1,2 @@
+The oldest recorded Jewish pogrom in Russia is the 1821 Odessa Pogrom. The cause behind the pogrom was because of actions by Jews during the lynching of the patriarch Gregory V in Constantinople during the Greek war of independence from the Ottoman Empire. The Greek community in Odessa accused the Jewish community of being in bed with the Ottomans. Fourteen jews ended up dead because of this retaliation. The event was essentially between two minorities in the city and had little to do with the majority population of russians.
+

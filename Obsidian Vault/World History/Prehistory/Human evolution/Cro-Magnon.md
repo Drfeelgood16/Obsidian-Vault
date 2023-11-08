@@ -1,0 +1,1 @@
+This term is an archaic term to refer to European [[Homo sapiens]] to separate them from [[Neanderthals]] and nowadays you usually just say [[Homo sapiens]] or European early modern humans. They are named after their original place of discovery in Abri de Cro-Magnon. 
