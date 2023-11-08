@@ -1,0 +1,1 @@
+Scrapers are tools thought to have been used for woodworking and hideworking in the [[Stone Age]].

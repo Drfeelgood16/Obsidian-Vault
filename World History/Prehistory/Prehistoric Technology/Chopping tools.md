@@ -1,0 +1,1 @@
+Simple stone tools used to for example cut or to break bones. Made by banging a hard rock into a softer one to break pieces off that have sharp edges.
