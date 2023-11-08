@@ -1,0 +1,1 @@
+Chatelperronian tools are extinguished by being denticulate like a saw blade. They also have their own flint blade that is curved almost like a claw with a sharp backside.

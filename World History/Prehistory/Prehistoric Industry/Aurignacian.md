@@ -1,4 +1,4 @@
-The Aurignacian industry happened during the early stages of [[Homo sapiens]] expansion out of Africa. This industry is characterized by blades rather than the more crude flakes of the [[Mousterian]]. Also by their bone points. A greater amount of tool standardization is also seen during this era instead of using a single tool for all kinds of work.
+The Aurignacian industry happened during the early stages of [[Homo sapiens]] expansion out of Africa in the [[Upper Paleolithic]]. This industry is characterized by blades rather than the more crude flakes of the [[Mousterian]]. Also by their bone points. A greater amount of tool standardization is also seen during this era instead of using a single tool for all kinds of work.
 
 The earliest cave paintings originates from this era like the paintings in the Trois-freres cave and the Chauvet cave. While there are some examples of art from the [[Middle Paleolithic]] there aren't as plentiful and few have survived as well as Aurignacian art. The earliest examples of the [[Venus figurine]] with the [Venus of Hohle Fels](https://en.wikipedia.org/wiki/Venus_of_Hohle_Fels).
 

@@ -1,0 +1,1 @@
+The Solutrean industry is an advanced tool-making technique that doesn't use flint knapping. It instead uses soft lithic reduction techniques combined with pressure flaking to make very small and sharp flakes useful for arrowheads or spearheds. This level of precision also allows crafters to make barbs and tangs.

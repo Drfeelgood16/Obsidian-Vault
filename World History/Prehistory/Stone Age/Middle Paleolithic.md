@@ -3,3 +3,5 @@ The middle paleolithic is characterized by the use of fire and the use of flake 
 The Middle Paleolithic also holds the earliest evidence of [[Behavioral modernity]] it, however, only becomes common during the [[Upper Paleolithic]]. The first known cases of burials happen in this era. Some archaeologists believe that cultures during the Middle Paleolithic might have believed in a religion with an afterlife because of these burials. This era also holds the earliest undisputed artistic works. In addition the Middle Paleolithic also holds the earliest evidence of long-distance trade.
 
 Middle Paleolithic people were also the first to fish for food and to cure meat to make it last longer. Cannibalism was still common during this era. Though it is disputed if it was culturally fine, for religious reasons, or through need. Cooking food happened for the first time in this era though it is disputed if we only cooked food to thaw it or if we did it for nutritional or culinary reasons.
+
+There were many other industries other than the Mousterian during the Middle Paleolithic like the Chatelperronian, Micoquien, and Sangoan to name a few.

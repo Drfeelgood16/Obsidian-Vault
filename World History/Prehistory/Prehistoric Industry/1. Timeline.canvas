@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"1c6b927090b6f043","type":"text","text":"[[Mousterian]]","x":-160,"y":-55,"width":250,"height":60},
+		{"id":"6a10830620149249","type":"text","text":"[[Aurignacian]]","x":-160,"y":60,"width":250,"height":60},
+		{"id":"537d1c6a13680e6e","type":"text","text":"[[Gravettian]]","x":-160,"y":180,"width":250,"height":60},
+		{"id":"cffae1c5334851e7","type":"text","text":"[[Acheulean]]","x":-160,"y":-180,"width":250,"height":60},
+		{"id":"23cc47708b2d918a","type":"text","text":"[[Oldowan]]","x":-160,"y":-300,"width":250,"height":60},
+		{"id":"a0aff472329db22d","type":"text","text":"[[Chatelperronian]]","x":200,"y":60,"width":250,"height":60},
+		{"id":"29be16301445d2d3","type":"text","text":"[[Solutrean]]","x":-160,"y":300,"width":250,"height":60},
+		{"id":"f5b73c92e48abe7a","type":"text","text":"[[Middle Paleolithic]]","x":-520,"y":-55,"width":250,"height":60},
+		{"id":"8be22fcf832e53eb","type":"text","text":"[[Magdalenian]]","x":-160,"y":420,"width":250,"height":60},
+		{"id":"26e985e84a0a1eed","x":-520,"y":60,"width":250,"height":60,"type":"text","text":"[[Upper Paleolithic]]"},
+		{"id":"60598b3cf2d46ea7","x":-520,"y":-300,"width":250,"height":60,"type":"text","text":"[[Lower Paleolithic]]"}
+	],
+	"edges":[
+		{"id":"352832e61d156930","fromNode":"23cc47708b2d918a","fromSide":"bottom","toNode":"cffae1c5334851e7","toSide":"top"},
+		{"id":"c50ddde515217721","fromNode":"cffae1c5334851e7","fromSide":"bottom","toNode":"1c6b927090b6f043","toSide":"top"},
+		{"id":"8a03993267313aed","fromNode":"1c6b927090b6f043","fromSide":"bottom","toNode":"6a10830620149249","toSide":"top"},
+		{"id":"197067d88a9ae7c3","fromNode":"6a10830620149249","fromSide":"bottom","toNode":"537d1c6a13680e6e","toSide":"top"},
+		{"id":"3e02fee3cdb549d5","fromNode":"6a10830620149249","fromSide":"right","toNode":"a0aff472329db22d","toSide":"left"},
+		{"id":"953b646ca2f50f33","fromNode":"537d1c6a13680e6e","fromSide":"bottom","toNode":"29be16301445d2d3","toSide":"top"},
+		{"id":"c5335fd40fdc95cb","fromNode":"29be16301445d2d3","fromSide":"bottom","toNode":"8be22fcf832e53eb","toSide":"top"},
+		{"id":"a0ed739da24a101a","fromNode":"f5b73c92e48abe7a","fromSide":"right","toNode":"1c6b927090b6f043","toSide":"left"},
+		{"id":"75fb619f0f6029b5","fromNode":"26e985e84a0a1eed","fromSide":"right","toNode":"6a10830620149249","toSide":"left"},
+		{"id":"7d733dc0b39c249f","fromNode":"60598b3cf2d46ea7","fromSide":"right","toNode":"23cc47708b2d918a","toSide":"left"}
+	]
+}

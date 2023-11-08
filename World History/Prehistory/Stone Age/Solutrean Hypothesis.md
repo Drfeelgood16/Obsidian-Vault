@@ -1,0 +1,1 @@
+The [[Solutrean]] Hypothesis argues that man made it to the Americas not through the Bering Strait. Instead it argues that Solutrean people from modern Spain made it there over the Atlantic ocean on pack ice. The Solutrean Hypothesis premise is that the American Clovis industry is very similar to the Solutrean.

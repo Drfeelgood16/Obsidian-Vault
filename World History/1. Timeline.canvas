@@ -1,15 +1,25 @@
 {
 	"nodes":[
-		{"id":"ed7b0c2854bca5c5","type":"text","text":"[[Prehistory]]","x":-260,"y":-120,"width":250,"height":60},
-		{"id":"61cae1b9328da42b","x":320,"y":-121,"width":250,"height":60,"type":"text","text":"[[Ancient History]]"},
-		{"id":"26a97bddf76757cf","x":-330,"y":-280,"width":140,"height":60,"type":"text","text":"[[Stone Age]]"},
-		{"id":"f8a710cc50c7c662","x":-90,"y":-280,"width":160,"height":60,"type":"text","text":"[[Bronze Age]]"},
-		{"id":"c80c5495766eb7a7","x":-680,"y":-500,"width":186,"height":60,"type":"text","text":"[[Lower Paleolithic]]"}
+		{"id":"61cae1b9328da42b","type":"text","text":"[[Ancient History]]","x":320,"y":-121,"width":250,"height":60},
+		{"id":"ed7b0c2854bca5c5","type":"text","text":"[[Prehistory]]","x":-680,"y":-121,"width":140,"height":60},
+		{"id":"26a97bddf76757cf","type":"text","text":"[[Stone Age]]","x":-680,"y":-280,"width":140,"height":60},
+		{"id":"2ad13444dab2f0a2","x":-714,"y":-479,"width":159,"height":60,"type":"text","text":"[[Mesolithic]]"},
+		{"id":"c80c5495766eb7a7","type":"text","text":"[[Paleolithic]]","x":-920,"y":-479,"width":140,"height":60},
+		{"id":"47552a7c305fa47a","x":-500,"y":-478,"width":140,"height":59,"type":"text","text":"[[Neolithic]]"},
+		{"id":"0d7ab8cc0c6ef665","x":-1420,"y":-678,"width":200,"height":60,"type":"text","text":"[[Lower Paleolithic]]"},
+		{"id":"fb5f4f0a015af3f4","x":-1160,"y":-678,"width":204,"height":60,"type":"text","text":"[[Middle Paleolithic]]"},
+		{"id":"0593d55bf6d57de3","x":-914,"y":-678,"width":200,"height":60,"type":"text","text":"[[Upper Paleolithic]]"},
+		{"id":"f8a710cc50c7c662","type":"text","text":"[[Bronze Age]]","x":-360,"y":-280,"width":160,"height":60}
 	],
 	"edges":[
 		{"id":"a30a43f7b0eaebf1","fromNode":"ed7b0c2854bca5c5","fromSide":"top","toNode":"26a97bddf76757cf","toSide":"bottom"},
 		{"id":"e26ec1acbd5ba552","fromNode":"ed7b0c2854bca5c5","fromSide":"top","toNode":"f8a710cc50c7c662","toSide":"bottom"},
 		{"id":"bffabc2adc1b62bd","fromNode":"ed7b0c2854bca5c5","fromSide":"right","toNode":"61cae1b9328da42b","toSide":"left"},
-		{"id":"41b7602cf98946b5","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"c80c5495766eb7a7","toSide":"bottom"}
+		{"id":"41b7602cf98946b5","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"c80c5495766eb7a7","toSide":"bottom"},
+		{"id":"9f719be930105b7f","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"2ad13444dab2f0a2","toSide":"bottom"},
+		{"id":"7b527cd4bd5b1287","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"47552a7c305fa47a","toSide":"bottom"},
+		{"id":"ed6228a6edd1a7af","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"0d7ab8cc0c6ef665","toSide":"bottom"},
+		{"id":"b8b2308fe8a519e8","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"fb5f4f0a015af3f4","toSide":"bottom"},
+		{"id":"c7612de85f9379d8","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"0593d55bf6d57de3","toSide":"bottom"}
 	]
 }
