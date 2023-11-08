@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SVT Sveriges Historia/Kommentarer Ep. 1.md",
+                "file": "World History/Prehistory/Prehistoric Culture/Venus figurine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVT Sveriges Historia/Kommentarer Ep. 1.md",
+                "file": "World History/Prehistory/Prehistoric Culture/Venus figurine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SVT Sveriges Historia/Kommentarer Ep. 1.md",
+                "file": "World History/Prehistory/Prehistoric Culture/Venus figurine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SVT Sveriges Historia/Kommentarer Ep. 1.md"
+                "file": "World History/Prehistory/Prehistoric Culture/Venus figurine.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c21f7b7c48d1d0f4",
+  "active": "02c78ea0fd046645",
   "lastOpenFiles": [
+    "World History/1. Timeline.canvas",
     "SVT Sveriges Historia/Kommentarer Ep. 1.md",
-    "Israel-Palestine/Haskalah.md",
     "SVT Sveriges Historia",
+    "World History/Protohistory.md",
+    "Israel-Palestine/Haskalah.md",
     "World History/Prehistory/Prehistoric Technology/Gravettian.md",
     "World History/Prehistory/Stone Age/Upper Paleolithic.md",
     "World History/Prehistory/Prehistoric Technology/Aurignacian.md",
@@ -178,11 +180,8 @@
     "World History/Prehistory/Human evolution/Homo erectus.md",
     "World History/Prehistory/Prehistoric Technology/Abbevillian.md",
     "World History/Prehistory/Stone Age",
-    "World History/1. Timeline.canvas",
-    "World History/Protohistory.md",
     "World History/Prehistory/Timeline.md",
     "World History/Prehistory/Prehistory.md",
-    "Israel-Palestine/Human shields.md",
     "World History/Prehistory/Human evolution/1. Human evolution.canvas",
     "World History/Prehistory/Prehistoric Technology",
     "World History/Prehistory/Human evolution",
