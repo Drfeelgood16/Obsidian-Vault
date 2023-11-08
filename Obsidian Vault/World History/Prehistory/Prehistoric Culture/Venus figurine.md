@@ -1,1 +1,0 @@
-A venus figurine is an [[Upper Paleolithic]] statue portraying a woman with enhanced features usually associated with fertility. These figurines usually lack extremities like arms and feet. These figurines are usually associated with the [[Gravettian]] industry but some go as far back as the [[Aurignacian]] industry.

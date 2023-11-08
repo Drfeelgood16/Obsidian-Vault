@@ -1,1 +1,0 @@
-The haskalah was a enlightenment movement for jews in the 19th century that advocated the revival of hebrew and for a modernization of the jewish culture and norms. Partly to better integrate with the majority communities they lived with.

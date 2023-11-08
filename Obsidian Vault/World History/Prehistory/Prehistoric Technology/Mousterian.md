@@ -1,3 +1,0 @@
-Mousterian technology is exemplified by using the [[Levallois Technique]] to prepare stone before flaking off a piece. These flakes were usually larger and sharper than the [[Oldowan]] tools but smaller than the [[Acheulean]]. Instead mousterian tools were sharper than the Acheulean and using the [[Levallois Technique]] you could produce more of them from a single core. The Acheulean hand axe and methods were still in use during this era.
-
-The purveyors of the Mousterian industry in Europe were the [[Neanderthals]] while in the rest of the world it was by early [[Homo sapiens]].
