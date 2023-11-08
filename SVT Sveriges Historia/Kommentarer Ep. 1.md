@@ -13,3 +13,6 @@ Mycket av avsnittet handlar om Österödskvinnan. Ett fossil hittat i bohuslän 
 Golfströmmen blir svagare en stund för ungefär 8000 år sedan. En period på ungefär ett sekel. 
 
 Det teoriseras att denna händelse leder till ökad religiös tro. Man har hittat begravningsplatser anslutna till vattnet. 
+
+Anna Kjellström är en av de som har undersökt kranierna och gett ut en studie om dem.
+
