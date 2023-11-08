@@ -16,3 +16,17 @@ Det teoriseras att denna händelse leder till ökad religiös tro. Man har hitta
 
 Anna Kjellström är en av de som har undersökt kranierna och gett ut en studie om dem.
 
+Vet man hur stenäldersmänniskan partajade eller är det bara troper från senare tid?
+
+Norden var en del av trattbägarkulturen.
+
+Agrarsamhällen och Jaktsamhällen har levt med varandra i flera tusen år. De brukade byta med varandra men de hade inte barn med varandra.
+
+Med mer agrarsamhällen och mycket nära levande så ökar sjukdomarna.
+
+Stridsyxekulturen kom till Sverige ca. 4500 år sedan.
+
+
+
+
+
