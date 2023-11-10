@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md"
+                "file": "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "c21f7b7c48d1d0f4",
   "lastOpenFiles": [
-    "World History/Prehistory/Stone Age/Mesolithic.md",
-    "World History/Prehistory/Stone Age/Neolithic.md",
+    "World History/Prehistory/Stone Age/Adze.md",
+    "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
     "World History/Prehistory/Stone Age/Epipalaeolithic.md",
+    "World History/Prehistory/Stone Age/Neolithic.md",
+    "World History/Prehistory/Stone Age/Fertile Crescent.md",
+    "World History/Prehistory/Stone Age/Mesolithic.md",
     "World History/Prehistory/Stone Age/Middle Paleolithic.md",
     "World History/Prehistory/Prehistoric Industry/Magdalenian.md",
     "World History/1. Timeline.canvas",
@@ -181,9 +184,6 @@
     "World History/Prehistory/Stone Age/Lower Paleolithic.md",
     "World History/Prehistory/Prehistoric Industry/Levallois Technique.md",
     "World History/Prehistory/Prehistoric Industry/Acheulean.md",
-    "World History/Prehistory/Prehistoric Industry/Oldowan.md",
-    "World History/Prehistory/Prehistoric Industry/Chopping tools.md",
-    "People/Nicci Sherwood.md",
     "People",
     "World History/Prehistory/Stone Age",
     "World History/Prehistory/Human evolution/1. Human evolution.canvas",

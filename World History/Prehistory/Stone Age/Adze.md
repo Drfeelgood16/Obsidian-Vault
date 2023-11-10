@@ -1,0 +1,1 @@
+An adze is an axe with the edge rotated 90 degrees. Adzes are used as a how for plowing fields or as an axe to carve wood.
