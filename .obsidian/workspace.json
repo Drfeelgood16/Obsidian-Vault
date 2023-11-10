@@ -11,14 +11,11 @@
             "id": "c21f7b7c48d1d0f4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "World History/1. Timeline.canvas",
-                "viewState": {
-                  "x": -599.1991528453458,
-                  "y": -582.997812496576,
-                  "zoom": -0.4959363651527117
-                }
+                "file": "World History/Prehistory/Stone Age/Late Neolithic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/1. Timeline.canvas",
+                "file": "World History/Prehistory/Stone Age/Late Neolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/1. Timeline.canvas",
+                "file": "World History/Prehistory/Stone Age/Late Neolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/1. Timeline.canvas"
+                "file": "World History/Prehistory/Stone Age/Late Neolithic.md"
               }
             }
           }
@@ -151,6 +148,7 @@
   },
   "active": "c21f7b7c48d1d0f4",
   "lastOpenFiles": [
+    "World History/1. Timeline.canvas",
     "World History/Prehistory/Stone Age/Late Neolithic.md",
     "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
     "World History/Prehistory/Stone Age/Adze.md",
@@ -160,7 +158,6 @@
     "World History/Prehistory/Stone Age/Mesolithic.md",
     "World History/Prehistory/Stone Age/Middle Paleolithic.md",
     "World History/Prehistory/Prehistoric Industry/Magdalenian.md",
-    "World History/1. Timeline.canvas",
     "World History/Prehistory/Prehistoric Industry/1. Timeline.canvas",
     "World History/Prehistory/Prehistoric Industry/Aurignacian.md",
     "World History/Prehistory/Stone Age/Solutrean Hypothesis.md",
@@ -186,7 +183,6 @@
     "World History/Prehistory/Stone Age/Stone Age.md",
     "World History/Prehistory/Human evolution/Behavioral modernity.md",
     "World History/Prehistory/Stone Age/Lower Paleolithic.md",
-    "World History/Prehistory/Prehistoric Industry/Levallois Technique.md",
     "People",
     "World History/Prehistory/Stone Age",
     "World History/Prehistory/Human evolution/1. Human evolution.canvas",
