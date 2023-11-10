@@ -7,5 +7,10 @@ The Neolithic can, in the Levant and and the [[Fertile Crescent]] be divided up 
 This era lead to the earliest civilization in [[Sumer]] which will herald in the [[Bronze Age]].
 
 ### Culture in the European Neolithic era
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/European-late-neolithic-english.svg/1024px-European-late-neolithic-english.svg.png)
+![[European Late Neolithic Culture.svg.png]]
 
+People lived in small tribes in the Neolithic era with little social stratification. States instead formed with the advent of metallurgy. Though it is argued that with some larger structures like burial mounds and towers that one explanation behind the construction of these is that one or a few persons organized and directed human labour. There exist evidence that some fortifications might have been constructed during this era.
+
+The characteristic lithic technology during this era are the ground and polished tools. Before this era all stone tools were flaked to get their edge which even with the latest [[Mesolithic]] technology leads to quite the rough edge compared to the edge you get from grinding. This new technology is what allowed settlers to clear woods for farming. The Native Americans maintained this level of technology until Europeans reached their lands.
+
+The best example of a Neolithic village is Skara Brae on the west coast of Mainland, Orkney, Scotland. The Ggantija in northern Malta is the oldest freestanding structure in the world was constructed in this period (3600 - 2500 BC).

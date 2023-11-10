@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Chalcolithic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Chalcolithic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md",
+                "file": "World History/Prehistory/Chalcolithic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World History/Prehistory/Stone Age/Neolithic.md"
+                "file": "World History/Prehistory/Chalcolithic.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "02c78ea0fd046645",
   "lastOpenFiles": [
+    "World History/Prehistory/Stone Age/Stone Age.md",
+    "World History/Prehistory/Chalcolithic.md",
+    "World History/Prehistory/Stone Age/Neolithic.md",
+    "World History/Prehistory/Media/European Late Neolithic Culture.svg.png",
+    "World History/Prehistory/Media/European Late Neolithic Culture.svg.png.crdownload",
     "World History/Prehistory/Stone Age/Late Neolithic.md",
+    "World History/Prehistory/Stone Age/Lower Paleolithic.md",
+    "SVT Sveriges Historia/Kommentarer Ep. 1.md",
     "World History/Prehistory/Prehistoric Culture/Mother Goddess.md",
     "World History/Prehistory/Prehistoric Culture/Master of Animals.md",
-    "SVT Sveriges Historia/Kommentarer Ep. 1.md",
     "World History/Prehistory/Stone Age/Solutrean Hypothesis.md",
     "World History/Prehistory/Stone Age/Pre-Pottery Neolithic.md",
-    "World History/Prehistory/Stone Age/Neolithic.md",
     "World History/Prehistory/Stone Age/Mesolithic.md",
     "World History/Prehistory/Stone Age/Fertile Crescent.md",
     "World History/Prehistory/Stone Age/Epipalaeolithic.md",
@@ -175,13 +180,10 @@
     "Israel-Palestine/Haskalah.md",
     "SVT Sveriges Historia",
     "World History/Prehistory/Prehistoric Technology/Gravettian.md",
-    "World History/Prehistory/Stone Age/Upper Paleolithic.md",
-    "World History/Prehistory/Prehistoric Technology/Aurignacian.md",
     "World History/Prehistory/Media/Gravette Point 3.jpg",
     "World History/Prehistory/Media/Gravette Point 2.jpg",
     "World History/Prehistory/Media/Gravette Point 1.jpg",
     "World History/Prehistory/Media",
-    "World History/Prehistory/Prehistoric Culture/Venus figurine.md",
     "World History/Prehistory/Prehistoric Culture",
     "People",
     "World History/Prehistory/Stone Age",
@@ -189,7 +191,6 @@
     "World History/Prehistory/Human evolution/1. Human evolution.canvas",
     "World History/Prehistory/Prehistoric Technology",
     "World History/Prehistory/Human evolution",
-    "World History/Prehistory",
-    "Israel-Palestine"
+    "World History/Prehistory"
   ]
 }
