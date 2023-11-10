@@ -3,13 +3,15 @@
 		{"id":"61cae1b9328da42b","type":"text","text":"[[Ancient History]]","x":320,"y":-121,"width":250,"height":60},
 		{"id":"ed7b0c2854bca5c5","type":"text","text":"[[Prehistory]]","x":-680,"y":-121,"width":140,"height":60},
 		{"id":"26a97bddf76757cf","type":"text","text":"[[Stone Age]]","x":-680,"y":-280,"width":140,"height":60},
-		{"id":"2ad13444dab2f0a2","x":-714,"y":-479,"width":159,"height":60,"type":"text","text":"[[Mesolithic]]"},
-		{"id":"c80c5495766eb7a7","type":"text","text":"[[Paleolithic]]","x":-920,"y":-479,"width":140,"height":60},
-		{"id":"47552a7c305fa47a","x":-500,"y":-478,"width":140,"height":59,"type":"text","text":"[[Neolithic]]"},
-		{"id":"0d7ab8cc0c6ef665","x":-1420,"y":-678,"width":200,"height":60,"type":"text","text":"[[Lower Paleolithic]]"},
-		{"id":"fb5f4f0a015af3f4","x":-1160,"y":-678,"width":204,"height":60,"type":"text","text":"[[Middle Paleolithic]]"},
-		{"id":"0593d55bf6d57de3","x":-914,"y":-678,"width":200,"height":60,"type":"text","text":"[[Upper Paleolithic]]"},
-		{"id":"f8a710cc50c7c662","type":"text","text":"[[Bronze Age]]","x":-360,"y":-280,"width":160,"height":60}
+		{"id":"f8a710cc50c7c662","type":"text","text":"[[Bronze Age]]","x":-360,"y":-280,"width":160,"height":60},
+		{"id":"0d7ab8cc0c6ef665","type":"text","text":"[[Lower Paleolithic]]","x":-1420,"y":-740,"width":200,"height":60},
+		{"id":"fb5f4f0a015af3f4","type":"text","text":"[[Middle Paleolithic]]","x":-1160,"y":-740,"width":204,"height":60},
+		{"id":"0593d55bf6d57de3","type":"text","text":"[[Upper Paleolithic]]","x":-914,"y":-740,"width":200,"height":60},
+		{"id":"0a3a2310023927d7","x":-610,"y":-740,"width":165,"height":60,"type":"text","text":"[[Pre-Pottery Neolithic|PPNA/PPNB]]"},
+		{"id":"fac9a7fb35c14e72","x":-400,"y":-740,"width":180,"height":60,"type":"text","text":"[[Late Neolithic]]"},
+		{"id":"2ad13444dab2f0a2","type":"text","text":"[[Mesolithic]]","x":-689,"y":-479,"width":159,"height":60},
+		{"id":"c80c5495766eb7a7","type":"text","text":"[[Paleolithic]]","x":-884,"y":-479,"width":140,"height":60},
+		{"id":"47552a7c305fa47a","type":"text","text":"[[Neolithic]]","x":-470,"y":-479,"width":140,"height":59}
 	],
 	"edges":[
 		{"id":"a30a43f7b0eaebf1","fromNode":"ed7b0c2854bca5c5","fromSide":"top","toNode":"26a97bddf76757cf","toSide":"bottom"},
@@ -20,6 +22,8 @@
 		{"id":"7b527cd4bd5b1287","fromNode":"26a97bddf76757cf","fromSide":"top","toNode":"47552a7c305fa47a","toSide":"bottom"},
 		{"id":"ed6228a6edd1a7af","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"0d7ab8cc0c6ef665","toSide":"bottom"},
 		{"id":"b8b2308fe8a519e8","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"fb5f4f0a015af3f4","toSide":"bottom"},
-		{"id":"c7612de85f9379d8","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"0593d55bf6d57de3","toSide":"bottom"}
+		{"id":"c7612de85f9379d8","fromNode":"c80c5495766eb7a7","fromSide":"top","toNode":"0593d55bf6d57de3","toSide":"bottom"},
+		{"id":"13f337778cebbb8c","fromNode":"47552a7c305fa47a","fromSide":"top","toNode":"0a3a2310023927d7","toSide":"bottom"},
+		{"id":"253f22583fec51e2","fromNode":"47552a7c305fa47a","fromSide":"top","toNode":"fac9a7fb35c14e72","toSide":"bottom"}
 	]
 }
