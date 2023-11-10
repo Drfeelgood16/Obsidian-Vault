@@ -1,0 +1,1 @@
+The Bronze Age is the period following the [[Chalcolithic]]- or Copper Age.
