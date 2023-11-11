@@ -1,5 +1,4 @@
 Arsenical Bronze is an alloy made with copper and arsenic. Since copper is naturally found contaminated with arsenic, only alloys with arsenic content over 1% by weight is called Arsenical Bronze. This fact also makes it hard to determine when arsenic was deliberately added to make this alloy.
 
-There are several theories of how arsenic might be added to copper to make bronze.
 
 Arsenic in copper have several advantages, which is why people think it was added to make the alloy. Arsenic can lower the amount of oxygen in the metal which will make the metal more ductile after casting. The alloy also has better potential for work-hardening than pure copper has. It can also make the bronze tools have a silvery sheen.
