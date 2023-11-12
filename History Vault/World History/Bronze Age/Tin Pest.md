@@ -1,0 +1,2 @@
+Tin poisoning is an autocatalytic (meaning if the product of the reaction will react with the source) and allotropic (meaning the object only changes molecular structure instead of turning into another substance like with oxidation) reaction. In this reaction the metallic beta-form of white tin turns into the nonmetallic brittle a-form of grey tin.![[Tin_allotropy.jpg]]
+![[Zinn_9eng.jpg]]
