@@ -3,3 +3,5 @@ Bronze is an alloy consisting of about seven parts copper to one part tin. It pl
 Before the widespread use of bronze with tin, there was another alloy with copper and arsenic called [[Arsenical Bronze]] in use during the [[Chalcolithic]] period. 
 
 The earliest tin bronze is thought to be made from stannite; a natural tin-copper ore.
+
+Bronze is actually harder than wrought iron

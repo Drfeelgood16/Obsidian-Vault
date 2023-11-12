@@ -13,14 +13,14 @@ Listing them all from [wikipedia](https://en.wikipedia.org/wiki/Upper_Paleolithi
 
 The Upper Paleolithic in the [Franco-Cantabrian region](https://en.wikipedia.org/wiki/Franco-Cantabrian_region "Franco-Cantabrian region"):
 
-- The [Châtelperronian](https://en.wikipedia.org/wiki/Ch%C3%A2telperronian "Châtelperronian") culture was located around central and south western France, and northern Spain. It appears to be derived from the [Mousterian](https://en.wikipedia.org/wiki/Mousterian "Mousterian") culture, and represents the period of overlap between [Neanderthals](https://en.wikipedia.org/wiki/Neanderthal "Neanderthal") and _[Homo sapiens](https://en.wikipedia.org/wiki/Human "Human")_. This culture lasted from approximately 45,000 BP to 40,000 BP.[[6]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-nature.com-6)
+- The [Châtelperronian](https://en.wikipedia.org/wiki/Ch%C3%A2telperronian "Châtelperronian") culture was located around central and south western France, and northern Spain. It appears to be derived from the [Mousterian](https://en.wikipedia.org/wiki/Mousterian "Mousterian") culture, and represents the period of overlap between [Neanderthals](https://en.wikipedia.org/wiki/Neanderthal "Neanderthal") and _[Homo sapiens](https://en.wikipedia.org/wiki/Human "Human")_. This culture lasted from approximately 45,000 BP to 40,000 BP.(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-nature.com-6)
 - The [Aurignacian](https://en.wikipedia.org/wiki/Aurignacian "Aurignacian") culture was located in Europe and south west Asia, and flourished between 43,000 and 26,000 BP. It may have been contemporary with the [Périgordian](https://en.wikipedia.org/wiki/P%C3%A9rigordian "Périgordian") (a contested grouping of the earlier Châtelperronian and later Gravettian cultures).
 - The [Gravettian](https://en.wikipedia.org/wiki/Gravettian "Gravettian") culture was located across Europe. Gravettian sites generally date between 33,000 and 20,000 BP.
 - The [Solutrean](https://en.wikipedia.org/wiki/Solutrean "Solutrean") culture was located in eastern France, Spain, and England. Solutrean artifacts have been dated c. 22,000 to 17,000 BP.
 - The [Magdalenian](https://en.wikipedia.org/wiki/Magdalenian "Magdalenian") culture left evidence from Portugal to Poland during the period from 17,000 to 12,000 BP.
 
 - Central and east Europe:
-    - 33,000 BP, [Gravettian](https://en.wikipedia.org/wiki/Gravettian "Gravettian") culture in southern Ukraine[[43]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-bbc-43)
+    - 33,000 BP, [Gravettian](https://en.wikipedia.org/wiki/Gravettian "Gravettian") culture in southern Ukraine(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-bbc-43)
     - 30,000 BP, [Szeletian](https://en.wikipedia.org/wiki/Szeletian "Szeletian") culture
     - 22,000 BP, [Pavlovian](https://en.wikipedia.org/wiki/Pavlovian_culture "Pavlovian culture"), [Aurignacian](https://en.wikipedia.org/wiki/Aurignacian "Aurignacian") cultures
     - 13,000 BP, [Ahrensburg culture](https://en.wikipedia.org/wiki/Ahrensburg_culture "Ahrensburg culture") (Western Germany, Netherlands, England)
@@ -52,9 +52,9 @@ The Upper Paleolithic in the [Franco-Cantabrian region](https://en.wikipedia.or
     - 9,000 BP, [Jōmon](https://en.wikipedia.org/wiki/J%C5%8Dmon "Jōmon") culture (Japan)
 
 - Oceania:
-    - 40,000 BP, [Whadjuk](https://en.wikipedia.org/wiki/Whadjuk "Whadjuk") and [Noongar](https://en.wikipedia.org/wiki/Noongar "Noongar") culture (Perth, Australia)[[44]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-44)
-    - 35,000 BP, [Wurundjeri](https://en.wikipedia.org/wiki/Wurundjeri "Wurundjeri"), [Boonwurrung](https://en.wikipedia.org/wiki/Bunurong "Bunurong") and [Wathaurong](https://en.wikipedia.org/wiki/Wathaurong "Wathaurong") culture (Melbourne, Australia)[[45]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-45)
-    - 30,000 BP, [Eora](https://en.wikipedia.org/wiki/Eora_people "Eora people") and [Darug](https://en.wikipedia.org/wiki/Darug "Darug")[[46]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-AusAnthrop-46) culture (Sydney, Australia)[[47]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-Aboriginal_people_and_place-47)
-    - 30,000 BP, [Arrernte](https://en.wikipedia.org/wiki/Aranda_people "Aranda people") culture ([Alice Springs](https://en.wikipedia.org/wiki/Alice_Springs "Alice Springs"), [Central Australia](https://en.wikipedia.org/wiki/Central_Australia "Central Australia"))[[48]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-48)
+    - 40,000 BP, [Whadjuk](https://en.wikipedia.org/wiki/Whadjuk "Whadjuk") and [Noongar](https://en.wikipedia.org/wiki/Noongar "Noongar") culture (Perth, Australia)(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-44)
+    - 35,000 BP, [Wurundjeri](https://en.wikipedia.org/wiki/Wurundjeri "Wurundjeri"), [Boonwurrung](https://en.wikipedia.org/wiki/Bunurong "Bunurong") and [Wathaurong](https://en.wikipedia.org/wiki/Wathaurong "Wathaurong") culture (Melbourne, Australia)(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-45)
+    - 30,000 BP, [Eora](https://en.wikipedia.org/wiki/Eora_people "Eora people") and [Darug](https://en.wikipedia.org/wiki/Darug "Darug")(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-AusAnthrop-46) culture (Sydney, Australia)(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-Aboriginal_people_and_place-47)
+    - 30,000 BP, [Arrernte](https://en.wikipedia.org/wiki/Aranda_people "Aranda people") culture ([Alice Springs](https://en.wikipedia.org/wiki/Alice_Springs "Alice Springs"), [Central Australia](https://en.wikipedia.org/wiki/Central_Australia "Central Australia"))(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-48)
 - America:
-    - South American culture located in Chile and Brazil flourished between 30,000 and 20,000 BP.[[49]](https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-theguardian-49)
+    - South American culture located in Chile and Brazil flourished between 30,000 and 20,000 BP.(https://en.wikipedia.org/wiki/Upper_Paleolithic#cite_note-theguardian-49)
