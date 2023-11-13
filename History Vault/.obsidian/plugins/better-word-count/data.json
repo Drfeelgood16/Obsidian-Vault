@@ -20,10 +20,18 @@
   "altBar": [
     {
       "prefix": "",
-      "suffix": " files",
+      "suffix": " files ",
       "metric": {
         "type": 2,
         "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": " words in  vault",
+      "metric": {
+        "type": 2,
+        "counter": 0
       }
     }
   ],
