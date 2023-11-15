@@ -8,5 +8,7 @@ She was married to the god [[Dumuzid]] and her attendant (sukkal) was the god [[
 
 She is often symbolized by a lion or an [[Star of Inanna|Eight-pointed star]]
 
+The district of [[Eanna]] in Uruk houses a temple dedicated to Inanna.
+
 
 #Ishtar
