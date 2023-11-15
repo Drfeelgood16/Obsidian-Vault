@@ -1,0 +1,3 @@
+Ancient Apocalypse is a netflix "documentary" where Graham Hancock attempts to prove his debunked pseudohistoric theory that an advanced [[Paleolithic]] civilization lived on [[Atlantis]] which disappeared after the ice age. It is this civilization that, according to his theory, built the pyramids and other ancient works like the [[Neolithic]] Ggantija found in Malta.
+
+I watched through most of the Ggantija episode before tiring of his constant complaining about how "Big archaeology" is pushing him down by disproving his crazy stories. I ended the show with the complaint "if you have such an incredible discovery that completely changes history as we know it; why are you not writing a paper on it instead of making a netflix documentary series?"
