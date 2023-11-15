@@ -12,5 +12,6 @@ The Ubaid period is a [[Prehistory|prehistoric]] period that lasts from about 55
 ### Uruk period
 The Uruk period is also known as the protoliterate period. It spans from around 4000 BCE to 3000 BCE. This age saw decreasing use of pottery in favour of the new bronze material. The Uruk period can be broadly split into three phases: Old, middle, and late. The old period is the transition from the Ubaid culture into the Uruk and the initial urbanization. The middle period is an age of expansion and in the late period Uruk's influence diminished with an increase of cultural diversity. The sumerian language was first used during the late Uruk period. 
 
+The 
 ### Jemdet Nasr period
 
