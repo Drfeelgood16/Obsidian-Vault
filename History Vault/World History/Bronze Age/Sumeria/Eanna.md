@@ -1,0 +1,1 @@
+Eanna is a distric in Uruk that holds the Temple of [[Inanna]].
