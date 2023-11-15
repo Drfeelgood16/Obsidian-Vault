@@ -1,0 +1,1 @@
+Uruk is a central city in the ancient civilization of [[Sumer|Sumeria]]. Uruk has given the name for the eponymous [[Sumer#Uruk period|Uruk period]] in [[Bronze Age]] Sumeria. 
