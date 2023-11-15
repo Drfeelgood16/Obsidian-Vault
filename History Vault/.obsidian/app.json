@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
   "livePreview": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "World History/Bronze Age/Media"
 }
