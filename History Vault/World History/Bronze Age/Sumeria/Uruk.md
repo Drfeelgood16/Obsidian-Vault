@@ -6,4 +6,4 @@ Uruk was formed when two smaller [[Sumer#Ubaid period|Ubaid]] settlements merged
 
 Canals ran through the city that has been called "Venice of the desert" that connected trade to the [[Euphrates]].
 
-Eanna is also confusingly known as a temple in Uruk housing the gods [[Inanna]] and [[Anu]].
+Eanna is confusingly also known as a temple in Uruk housing the gods [[Inanna]] and [[Anu]].
