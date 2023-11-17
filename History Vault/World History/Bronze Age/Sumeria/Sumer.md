@@ -17,7 +17,7 @@ This period sees widespread use of the pottery wheel, writing, and the invention
 
 It is not only agriculture that saw great gains but pastoralism also. The wild Onager was domesticated into becoming the Donkey. The donkey became the most important beast of burden in the Near East. Previously domesticated animals like sheep and cattle who were primarily raised for their meat started being used for their wool or milk also. Increased use of sheep for their wool allowed farmers to forego the plantation of flax for linen. Wool was also easier exported than food allowing for increased trade with other civilizations for primary materials like metals.
 
-The pottery wheel and the improved kiln and methods like coating allowed for mass-production of pots. This made pottery more pervasive and allowed for more people to utilize it. It is debated whether the wheel was invented in this period or in the periods afterwards. There are some depictions of vehicles on what appear to be wheels but it is not certain that they are. The earliest wheels were solid blocks it took about a thousand years to develop spokes.
+The fast spinning pottery wheel and the improved kiln and methods like coating allowed for mass-production of pots. This made pottery more pervasive and allowed for more people to utilize it. It is debated whether the wheel was invented in this period or in the periods afterwards. There are some depictions of vehicles on what appear to be wheels but it is not certain that they are. The earliest wheels were solid blocks it took about a thousand years to develop spokes.
 
 With these inventions Sumer had a greater surplus of food which allowed further stratifications of society. The elites during this era were the priests who acted as middle men between the normal people and the patron gods. These elites also formed the first centralized governments with archives of who owns what land or which slaves for example.  The food surplus also allowed a greater amount of increasingly specialized workers and some of the governments largest institutions even had departments devoted to a single activity. But even with these increasingly large institutions there was no planned economy. In fact there was very little accounting of what was produced and trade happened on a lower level than the institutions account for.
 
@@ -28,4 +28,4 @@ Jemdet Nasr is named after the type site Tell Jemdet Nasr in Iraq. What defines 
 
 ## Early Dynastic period
 
-The early dynastic period is famous for when Gilgamesh is said to have ruled Sumeria.
+The early dynastic period is famous for when Gilgamesh is said to have ruled Sumeria. We still don't understand texts from this period. Syllabic writing first occured. 
