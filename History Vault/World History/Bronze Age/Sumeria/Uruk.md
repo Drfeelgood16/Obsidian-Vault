@@ -6,7 +6,7 @@ Uruk was formed when two smaller [[Sumer#Ubaid period|Ubaid]] settlements merged
 
 There were extensive canals that ran through the city to connect trade to the [[Euphrates]]. Because of these canals Uruk has been called "Venice of the desert".
 
-About 400 Proto-[[Cuneiform]] tablets have been found in Uruk which is some the earliest recorded writing ever found. The famous [[Sumerian King List]] was also found and deciphered here along with tablets from the [[Babylon|Babylonian]] and [[Selecuid]] empires.
+About 400 Proto-[[Cuneiform]] tablets have been found in Uruk which is some the earliest recorded writing ever found. A tablet containing the [[Sumerian King List]] was also found and deciphered here along with tablets from the [[Babylon|Babylonian]] and [[Selecuid]] empires.
 
 The [Uruk Trough](https://en.wikipedia.org/wiki/Uruk_Trough) and the [Warka Vase](https://en.wikipedia.org/wiki/Warka_Vase), the earliest forms of narrative art has been found in Uruk. Both of these artifacts along with the [Mask of Warka](https://en.wikipedia.org/wiki/Mask_of_Warka) are connected to the goddess Inanna.
 ## Anu District
@@ -33,5 +33,6 @@ In period III Eanna saw very different architecture compared to earlier periods.
 
 Uruk was eventually annexed by the [[Akkadian Empire]] and went into decline. Uruk enjoyed a revival during the later Neo-Sumerian period under the sovereignty of Ur which saw a new temple for Inanna. Uruk continued to see ups when it was under sovereignty of other empires and declines when these empires ended until it's eventual decline caused by the Euphrates diverging.
 
+-----------
 
 [^1] In the Wikipedia page it says Uruk V period but [this paper](https://sci-hub.zidianzhan.net/10.2307/504076) says "A still earlier level, closely related to IV, was labelled level V. The main building of that level, the so-called "Limestone (Kalkstein) temple" was still in existence in level IV" where it seem to use level and Eannan Period interchangeably.
