@@ -6,8 +6,13 @@ Uruk was formed when two smaller [[Sumer#Ubaid period|Ubaid]] settlements merged
 
 ## Anu District
 
-The Anu district consists of a single terrace, the Anu [[Ziggurat]]
+The Anu district consists of a single terrace, the Anu [[Ziggurat]] on which the white temple dedicated to the god Anu stood.
 
-Canals ran through the city that has been called "Venice of the desert" that connected trade to the [[Euphrates]].
+## Eanna District
+
+Eannas first building was the Stone-cone Temple (Mosaic Temple), named after the remaining
+
+
+There were extensive canals that ran through the city to connect trade to the [[Euphrates]]. Because of these canals Uruk has been called "Venice of the desert".
 
 Eanna is confusingly also known as a temple in Uruk housing the gods [[Inanna]] and [[Anu]].
