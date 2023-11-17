@@ -1,0 +1,1 @@
+The Sumerian King List is a literary work from the [[Ur III]] period or later listing [Sumerian](Sumer) cities and their rulers along with the length of their rule. It used to be an invaluable source for scholars researching the early dynasty of Sumeria but newer research shows that it is not as reliable as once thought.
