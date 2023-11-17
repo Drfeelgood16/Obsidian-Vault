@@ -2,7 +2,11 @@ Uruk, today known as Warka, is a central city in the ancient civilization of [[S
 
 Uruk was founded by Enmerkar according to the [[Sumerian King List]]. 
 
-Uruk was formed when two smaller [[Sumer#Ubaid period|Ubaid]] settlements merged. The temples districts at the core of each settlement became the Eanna District and the Anu District. Each dedicated to the gods [[Inanna]] and [[Anu]] respectively. The Eanna District was walled off while the Anu District was built on a terrace.
+Uruk was formed when two smaller [[Sumer#Ubaid period|Ubaid]] settlements merged. The temples districts at the core of each settlement became the Eanna District and the Anu District. Each dedicated to the gods [[Inanna]] and [[Anu]] respectively.
+
+## Anu District
+
+The Anu district consists of a single terrace, the Anu [[Ziggurat]]
 
 Canals ran through the city that has been called "Venice of the desert" that connected trade to the [[Euphrates]].
 

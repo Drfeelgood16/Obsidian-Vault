@@ -1,0 +1,1 @@
+A Ziggurat is an ancient [[Sumer|sumerian]] terraced structure with several stories with a temple on top. It served as a temple complex with lower stories having 
