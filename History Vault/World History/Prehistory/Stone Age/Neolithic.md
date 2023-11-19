@@ -4,7 +4,7 @@ The effect of agriculture in the Neolithic was less diversity in food and nutrit
 
 The Neolithic can, in the Levant and and the [[Fertile Crescent]] be divided up into three [[Pre-Pottery Neolithic]] eras (A-C) and the [[Late Neolithic]].
 
-This era lead to the earliest civilization in [[Sumer]] which will herald in the [[Bronze Age]].
+This era lead to the earliest civilization in [[Sumeria]] which will herald in the [[Bronze Age]].
 
 ### Culture in the European Neolithic era
 ![[European Late Neolithic Culture.svg.png]]

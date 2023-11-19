@@ -2,7 +2,7 @@ Sumer is the oldest civilization in [[Mesopotamia]]. The name Sumer comes from w
 
 It is disputed where the Sumerian people came from. Some argue they came from the [[Indus valley]], some argue they came from the Caucasus, some even argue they came from Northern Africa. We do not know for certain where they came from.
 
-## History of Sumer
+## History of Sumeria
 
 The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided into several periods.
 
