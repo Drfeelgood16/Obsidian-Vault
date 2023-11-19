@@ -11,7 +11,7 @@ The Ubaid period is a [[Prehistory|prehistoric]] period that lasts from about 55
 ### Uruk period
 The Uruk period is also known as the protoliterate period, it is on the cusp of prehistory and history. It spans from around 4000 BCE to 3000 BCE. This age saw decreasing use of pottery in favour of the new bronze material. The Uruk period can be broadly split into three phases: Old, middle, and late. The old period is the transition from the Ubaid culture into the Uruk and the initial urbanization. The middle period is an age of expansion and in the late period Uruk's influence diminished with an increase of cultural diversity. The sumerian language was first used during the late Uruk period. 
 
-The period has got it's name from the the city of [[Uruk]], the largest city in Sumeria and the centre during this period. The reach of Uruk culture stretches as far as southeastern Anatolia and central Iran with very little to almost no influence in the Levant.
+The period has got it's name from the the city of [[Uruk]], the largest city in Sumeria and the centre during this period. The reach of Uruk culture stretches as far as southeastern Anatolia and central Iran with very little to almost no influence in the Levant. Though Uruk culture was central during this period it was still just a collection of cities, it wasn't until the [[Akkadian empire]] that the entirety of Sumeria was united under one ruler.
 
 This period sees widespread use of the pottery wheel, writing, and the invention of the state. The many developments within agricultural technology is thought to be behind the growth and proliferation of this era. These developments include better irrigation techniques, the invention of the ard (a plough pulled by an animal) that greatly lessened the burden on farmers and increased yields. The improvements during this era were so great some call this era the "Second Agricultural Revolution".
 
@@ -31,3 +31,9 @@ The early dynastic period (2900 - 2350 BCE) is marked by a change of power struc
 This period is associated with an increase in war. This made walled cities necessary and they grew even larger because they offered protection.
 
 The early dynastic period is famous for when [[Gilgamesh]] is said to have ruled Sumeria. Syllabic writing first occured. 
+
+The Early dynastic can be divided into sub-periods ED I, ED II, ED IIIa, and ED IIIb. These periods originate from the changes over time of the Abu Temple in Tell Asmar. This period marks the transition of distinguishing eras archaeologically instead the end of the Dynastic period is marked by the conquests of [[Sargon of Akkad]] and henceforth periods are distinguished by their rulers. Because of this it is not possible to distinguish if sites are ED III or [[Akkadian]] purely by archaeological means.
+
+We have no contemporary documents from the ED I and II periods that shed light on the political developments. What we do have instead is documents show the pious acts of rulers like constructing temples. 
+
+We have examples of hegemony.
