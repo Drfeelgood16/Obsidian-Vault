@@ -22,8 +22,12 @@ The fast spinning pottery wheel and the improved kiln and methods like coating a
 With these inventions Sumer had a greater surplus of food which allowed further stratifications of society. The elites during this era were the priests who acted as middle men between the normal people and the patron gods. These elites also formed the first centralized governments with archives of who owns what land or which slaves for example.  The food surplus also allowed a greater amount of increasingly specialized workers and some of the governments largest institutions even had departments devoted to a single activity. But even with these increasingly large institutions there was no planned economy. In fact there was very little accounting of what was produced and trade happened on a lower level than the institutions account for.
 ### Jemdet Nasr period
 
-The Jemdet Nasr is a small transitional period between the Uruk and Early Dynastic period and is named after the type site Tell Jemdet Nasr in Iraq. What defines the period is the distinctive painted pottery. Developments during this period mainly focuses on the [[Cuneiform]] script changing from being a pictographic language into using more simplified letters.
+The Jemdet Nasr (3100 - 2900 BCE) is a small transitional period between the Uruk and Early Dynastic period and is named after the type site Tell Jemdet Nasr in Iraq. What defines the period is the distinctive painted pottery. Developments during this period mainly focuses on the [[Cuneiform]] script changing from being a pictographic language into using more simplified letters.
 
 ## Early Dynastic period
 
-The early dynastic period is famous for when Gilgamesh is said to have ruled Sumeria. Syllabic writing first occured. 
+The early dynastic period (2900 - 2350 BCE) is marked by a change of power structures in that it comes from a more secular leader called a Lugal (Lu = man, Gal = great) instead of from the temples. 
+
+This period is associated with an increase in war. This made walled cities necessary and they grew even larger because they offered protection.
+
+The early dynastic period is famous for when [[Gilgamesh]] is said to have ruled Sumeria. Syllabic writing first occured. 
