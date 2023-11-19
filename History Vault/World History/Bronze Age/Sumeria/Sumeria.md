@@ -39,3 +39,5 @@ We have no contemporary documents from the ED I and II periods that shed light o
 There are examples of hegemony and of leagues between city-states but there was no single ruling body over the entirety of Sumeria until the following [[Akkadian]] period. Texts from Shuruppak seem to confirm a [[Ki-engir]] league between the cities Umma, Lagash, [[Uruk]], Nippur, Adab, and Kish. 
 
 The first recorded war took place in this period. This war took place in around 2700 BCE and the parties were Sumer under Enmebaragesi, the king of Kish, and [[Elam]]. The Sumerians won and "carried away as spoils the weapons of Elam". But Sumerians didn't only fight outsiders but it seems wars between sumerian cities was also common and only ended with the emergence of the Akkadian Empire.
+
+Agriculture was extremely productive in early dynastic Sumeria. It has been postulated that in ED III three quarters of the total population in the near east resided in Sumeria.
