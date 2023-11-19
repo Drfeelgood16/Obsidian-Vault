@@ -1,4 +1,4 @@
-PhD in Archaeology specialized in the stone age.
+PhD in Archaeology specialized in the [[stone age]].
 
 Youtube channel: https://www.youtube.com/@niccisherwood1550
 

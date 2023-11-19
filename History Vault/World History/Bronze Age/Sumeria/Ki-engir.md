@@ -1,0 +1,1 @@
+Ki-engir or Kengir is what the Sumerians called themselves. 
