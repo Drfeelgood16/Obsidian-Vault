@@ -1,6 +1,6 @@
 Uruk, today known as Warka, is a central city in the ancient civilization of [[Sumeria|Sumeria]]. It lies in [[Mesopotamia]] in modern Iraq a bit southwest of the ancient [[Euphrates]]. Uruk has given the name for the eponymous [[Sumeria#Uruk period|Uruk period]] in [[Bronze Age]] Sumeria. By the end of the Uruk period 40 000 citizens might have been living in Uruk and up to 90 000 in the surrounding area.
 
-Uruk was founded by Enmerkar according to the [[Sumerian King List]]. 
+According to the [[Sumerian King List]] Mes-ki-ang-gasher became king in [[Uruk#Eanna District|Eanna]] and it was his son Enmerkar who built Uruk. 
 
 Uruk was formed when two smaller [[Sumeria#Ubaid period|Ubaid]] settlements merged. The temples districts at the core of each settlement became the Eanna District and the Anu District. Each dedicated to the gods [[Inanna]] and [[Anu]] respectively.
 
