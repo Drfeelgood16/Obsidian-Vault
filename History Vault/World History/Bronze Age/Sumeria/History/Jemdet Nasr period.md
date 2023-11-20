@@ -1,0 +1,1 @@
+The Jemdet Nasr (3100 - 2900 BCE) is a small transitional period between the Uruk and Early Dynastic period and is named after the type site Tell Jemdet Nasr in Iraq. What defines the period is the distinctive painted pottery. Developments during this period mainly focuses on the [[Cuneiform]] script changing from being a pictographic language into using more simplified letters.

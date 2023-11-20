@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e29bf0ac29bcc431","type":"file","file":"World History/Bronze Age/Sumeria/History/Ubaid period.md","x":-440,"y":-240,"width":400,"height":400},
+		{"id":"d618b971d496c85a","type":"file","file":"World History/Bronze Age/Sumeria/History/Uruk period.md","x":126,"y":-240,"width":400,"height":400},
+		{"id":"e3124433bcbbbd2f","type":"file","file":"World History/Bronze Age/Sumeria/History/Jemdet Nasr period.md","x":680,"y":-240,"width":400,"height":400},
+		{"id":"aa6a60ce3fb8af7b","type":"file","file":"World History/Bronze Age/Sumeria/History/Early Dynastic period.md","x":1240,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d85e83a14499d5cf","fromNode":"e29bf0ac29bcc431","fromSide":"right","toNode":"d618b971d496c85a","toSide":"left"},
+		{"id":"ba3d7324a09c1247","fromNode":"d618b971d496c85a","fromSide":"right","toNode":"e3124433bcbbbd2f","toSide":"left"},
+		{"id":"e0b5d1a339d70fb3","fromNode":"e3124433bcbbbd2f","fromSide":"right","toNode":"aa6a60ce3fb8af7b","toSide":"left"}
+	]
+}
