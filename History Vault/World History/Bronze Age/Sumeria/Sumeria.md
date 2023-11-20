@@ -10,3 +10,5 @@ The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided
 - [[Uruk period]] 4000 - 3000 BCE
 - [[Jemdet Nasr period]] 3100 - 2900 BCE
 - [[Early Dynastic period]] 2900 - 2350 BCE
+
+![[Pasted image 20231120143627.png]] Map of Sumeria showing city-states.
