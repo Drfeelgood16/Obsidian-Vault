@@ -22,7 +22,11 @@ Metalworking was quite intricate especially so if you take into account that all
 
 ## Dynasties
 As the name implies the Early dynastic period was lead by several dynasties originating from different cities in Sumeria.
-
 #### First dynasty of Kish
-The earliest known king of [[Kish]] is Etana. During this dynasty lugal Enmebaragesi fought a war and won against the [Elamites](Elam)  
+There is little archaeological evidence of the rulers from this dynasty except from the disputed [[Sumerian King List]]. The earliest known king of Kish who is named in sources other than the SKL is Etana. The earliest king with archaeological evidence supporting his existence is Enmebaragesi who fought a war against the [Elamites](Elam) and won.
 
+#### First Dynasty of Uruk
+According to the SKL Meshkiangasher is the first king-priest of Uruk followed by his son king Enmerkar who built the city. There are two known legends that take place in this dynasty: The [[Epic of Gilgamesh]] and [[Enmerkar and the Lord of Aratta]].
+
+#### First dynasty of Ur
+In the SKL the final ruler of First Dynasty Uruk was overthrown by Mesannepada of Ur. The dynasty of Ur had after Mesannepada three other kings according to the SKL: Mes-kiagnun, Elulu, and Balulu. We know of earlier kings than Mesannepada that are not mentioned in the SKL.
