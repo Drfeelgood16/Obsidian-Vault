@@ -21,12 +21,17 @@ The earliest known legal code and legal reform in recorded history is the Code o
 Metalworking was quite intricate especially so if you take into account that all the metals had to be imported.
 
 ## Dynasties
-As the name implies the Early dynastic period was lead by several dynasties originating from different cities in Sumeria.
+As the name implies the Early dynastic period was lead by several dynasties originating from different cities in Sumeria. Most of the information we have of these dynasties are just mentions in the [[Sumerian King List]] (SKL) of who ruled when and where.
 #### First dynasty of Kish
-There is little archaeological evidence of the rulers from this dynasty except from the disputed [[Sumerian King List]]. The earliest known king of Kish who is named in sources other than the SKL is Etana. The earliest king with archaeological evidence supporting his existence is Enmebaragesi who fought a war against the [Elamites](Elam) and won.
+There is little archaeological evidence of the rulers from this dynasty except from the disputed SKL. The earliest known king of Kish who is named in sources other than the SKL is Etana. The earliest king with archaeological evidence supporting his existence is Enmebaragesi who fought a war against the [Elamites](Elam) and won.
 
 #### First Dynasty of Uruk
 According to the SKL Meshkiangasher is the first king-priest of Uruk followed by his son king Enmerkar who built the city. There are two known legends that take place in this dynasty: The [[Epic of Gilgamesh]] and [[Enmerkar and the Lord of Aratta]].
 
 #### First dynasty of Ur
-In the SKL the final ruler of First Dynasty Uruk was overthrown by Mesannepada of Ur. The dynasty of Ur had after Mesannepada three other kings according to the SKL: Mes-kiagnun, Elulu, and Balulu. We know of earlier kings than Mesannepada that are not mentioned in the SKL.
+In the SKL the final ruler of First Dynasty Uruk was overthrown by Mesannepada of Ur. The dynasty of Ur had after Mesannepada three other kings according to the SKL: Mes-kiagnun, Elulu, and Balulu. We know of earlier kings than Mesannepada that are not mentioned in the SKL. 
+
+#### Dynasty of Awan
+According to the SKL Ur was defeated and the kingship moved to Awan in [[Elam]].
+
+#### Second Dynasty of Uruk
