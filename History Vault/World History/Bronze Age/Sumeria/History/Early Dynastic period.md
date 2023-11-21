@@ -4,11 +4,11 @@ This period is associated with an increase in war. This made walled cities neces
 
 The early dynastic period is famous for when [[Gilgamesh]] is said to have ruled Sumeria. Syllabic writing first occurred. 
 
-The Early dynastic can be divided into sub-periods ED I, ED II, ED IIIa, and ED IIIb. These periods originate from the changes over time of the Abu Temple in Tell Asmar. This period marks the end of distinguishing eras archaeologically we instead mark the end of periods by their rulers. The end of the Dynastic period is, for example, marked by the conquests of [[Sargon of Akkad]] which lead in to the [[Akkadian]] period. Because of this it is not possible to distinguish if sites are ED III or [[Akkadian]] purely by archaeological means.
+The Early dynastic can be divided into sub-periods ED I, ED II, ED IIIa, and ED IIIb. These periods originate from the changes over time of the Abu Temple in Tell Asmar. This period marks the end of distinguishing eras archaeologically we instead mark the end of periods by their rulers. The end of the Dynastic period is, for example, marked by the conquests of [[Sargon of Akkad]] which lead in to the [[Akkadian Empire|akkadian]] period. Because of this it is not possible to distinguish if sites are ED III or Akkadian purely by archaeological means.
 
 We have no contemporary documents from the ED I and II periods that shed light on most of the political developments. What we do have instead is many documents that show the pious acts of rulers like constructing temples. It is likely that the rule of a city was split between its lugal and a council of elders who always advised the lugal before every action.
 
-There are examples of hegemony and of leagues between city-states but there was no single ruling body over the entirety of Sumeria until the following [[Akkadian]] period. Texts from Shuruppak seem to confirm a [[Ki-engir]] league between the cities Umma, Lagash, [[Uruk]], Nippur, Adab, and Kish.
+There are examples of hegemony and of leagues between city-states but there was no single ruling body over the entirety of Sumeria until the following [[Akkadian Empire|Akkadian period]]. Texts from Shuruppak seem to confirm a [[Ki-engir]] league between the cities Umma, Lagash, [[Uruk]], Nippur, Adab, and Kish.
 
 The first recorded war took place in this period. This war took place in around 2700 BCE and the parties were Sumer under Enmebaragesi, the king of Kish, and [[Elam]]. The Sumerians won and "carried away as spoils the weapons of Elam". But Sumerians didn't only fight outsiders but it seems wars between sumerian cities was also common and only ended with the emergence of the [[Akkadian Empire]].
 

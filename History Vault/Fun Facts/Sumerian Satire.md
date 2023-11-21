@@ -4,4 +4,4 @@ An early form of satire is the Rulers of Lagash. Most likely made because the fa
 ----------
 Text: https://etcsl.orinst.ox.ac.uk/section2/tr212.htm
 
-Commentary exists on JSTOR: Sollberger, Edmond. “The Rulers of Lagaš.” Journal of Cuneiform Studies, vol. 21, pp. 279–91, 1967
+Commentary exists on JSTOR: Sollberger, Edmond. “The Rulers of Lagaš.” Journal of [[Cuneiform]] Studies, vol. 21, pp. 279–91, 1967
