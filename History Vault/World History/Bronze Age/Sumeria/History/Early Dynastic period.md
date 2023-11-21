@@ -39,5 +39,7 @@ Kubaba is the only king in the Third Dynasty and she is unique in that she is th
 #### First Dynasty of Lagash
 This dynasty, unlike previous ones, is not mentioned in the SKL. In fact because of the omission of Lagash there exists a satire on the subject called "The Rulers of Lagash".[^1] Enhegal is believed to be the first ruler of Lagash but we only have record of a business transaction he made therefore both his status and dating is disputed. The third ruler, Ur-Nanshe, is one we know actually ruled Lagash but we do not know when exactly. His son Akurgal ruled after him.
 
+After Akurgal came Eannatum. Eannatum is said to have conquered the entirety of Sumeria like Lugal-ane-mundu. His reach did not reach the Mediterranean like Luga-ane-mundu, reaching only as far as Mari but he instead conquered the Elamites in the east.
+
 ---------
 [^1] https://etcsl.orinst.ox.ac.uk/section2/tr212.htm
