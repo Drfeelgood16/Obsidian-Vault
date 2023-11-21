@@ -24,14 +24,17 @@ Metalworking was quite intricate especially so if you take into account that all
 As the name implies the Early dynastic period was lead by several dynasties originating from different cities in Sumeria. Most of the information we have of these dynasties are just mentions in the [[Sumerian King List]] (SKL) of who ruled when and where.
 #### First dynasty of Kish
 There is little archaeological evidence of the rulers from this dynasty except from the disputed SKL. The earliest known king of Kish who is named in sources other than the SKL is Etana. The earliest king with archaeological evidence supporting his existence is Enmebaragesi who fought a war against the [Elamites](Elam) and won.
-
 #### First Dynasty of Uruk
 According to the SKL Meshkiangasher is the first king-priest of Uruk followed by his son king Enmerkar who built the city. There are two known legends that take place in this dynasty: The [[Epic of Gilgamesh]] and [[Enmerkar and the Lord of Aratta]].
-
 #### First dynasty of Ur
 In the SKL the final ruler of First Dynasty Uruk was overthrown by Mesannepada of Ur. The dynasty of Ur had after Mesannepada three other kings according to the SKL: Mes-kiagnun, Elulu, and Balulu. We know of earlier kings than Mesannepada that are not mentioned in the SKL. 
-
 #### Dynasty of Awan
 According to the SKL Ur was defeated and the kingship moved to Awan in [[Elam]].
-
 #### Second Dynasty of Uruk
+A notable king is Enshakushanna who conquered Hamazi along with other Sumerian cities and claimed hegemony over Sumeria. He adopted the title "en ki-en-gi lugal kalam" which translated means "lord of Sumer and king of all the land". He was succeeded but it seems the hegemony did not pass down with the successor.
+#### Empire of Lugal-Ane-mundu of Adab
+After a brief dynasty in Ur the kingship was taken to Adab by Lugal-Ane-mundu who reigned for 90 years according to the SKL. He reigned over the entirety of Mesopotamia, the first king to do so but when he died his kingdom was shattered.
+#### Third Dynasty of Kish
+Kubaba is the only king in the Third Dynasty and she is unique in that she is the only woman in the SKL to reign as "king." She is noted as having been a tavern-keeper before gaining kingship and was later worshipped as a minor goddess.
+#### First Dynasty of Lagash
+This dynasty unlike previous ones is not mentioned in the SKL.
