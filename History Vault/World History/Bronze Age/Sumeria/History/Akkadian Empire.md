@@ -1,1 +1,1 @@
-The Akkadian empire is proclaimed as the first ancient empire of Mesopotamia. What separates this 
+The Akkadian empire is proclaimed as the first ancient empire of Mesopotamia. Written sources from this empire are few mainly, it is thought, because the capital of Akkad has yet to be dicovered.
