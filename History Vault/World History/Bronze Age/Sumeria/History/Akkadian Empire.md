@@ -1,0 +1,1 @@
+The Akkadian empire is proclaimed as the first ancient empire of Mesopotamia. What separates this 

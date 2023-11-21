@@ -16,7 +16,7 @@ Agriculture was extremely productive in early dynastic Sumeria. It has been post
 
 The city that benefited most from this trade was the city of Ur. It sat at the top of the Persian gulf by the mouth of the Euphrates. This ideal location allowed easy travel by waters from the west and east. The Euphrates allowed trade from the Levant and Egypt in the west while the Persian gulf allowed trade from India in the east. We know of Urs great wealth through their cemeteries which had an abundance of expensive objects compared to cemeteries in other Sumerian cities. Resin from as far as Mozambique has been found in a tomb in Ur.
 
-The earliest known legal code and legal reform in recorded history is the Code of Uru-ka-gina of Lagash. The code itself has sadly not survived but we do know it existed through secondary sources. The code was a reformation of the laws of the corrupt previous king and was an attempt to reach higher levels of equality and freedom. For example it decreed that the rich must use silver when purchasing from the poor and the rich man is not allowed to force the poor man to sell his wares if he does not want to. It also outlawed polyandry with the punishment being stoning with rocks upon which the crime was written.
+The earliest known legal code and legal reform in recorded history is the Code of Urukagina of Lagash. The code itself has sadly not survived but we do know it existed through secondary sources. The code was a reformation of the laws of the corrupt previous king and was an attempt to reach higher levels of equality and freedom. For example it decreed that the rich must use silver when purchasing from the poor and the rich man is not allowed to force the poor man to sell his wares if he does not want to. It also outlawed polyandry with the punishment being stoning with rocks upon which the crime was written.
 
 Metalworking was quite intricate especially so if you take into account that all the metals had to be imported.
 
@@ -38,8 +38,11 @@ After a brief dynasty in Ur the kingship was taken to Adab by Lugal-Ane-mundu wh
 Kubaba is the only king in the Third Dynasty and she is unique in that she is the only woman in the SKL to reign as "king." She is noted as having been a tavern-keeper before gaining kingship and was later worshipped as a minor goddess.
 #### First Dynasty of Lagash
 This dynasty, unlike previous ones, is not mentioned in the SKL. In fact because of the omission of Lagash there exists a satire on the subject called "The Rulers of Lagash".[^1] Enhegal is believed to be the first ruler of Lagash but we only have record of a business transaction he made therefore both his status and dating is disputed. The third ruler, Ur-Nanshe, is one we know actually ruled Lagash but we do not know when exactly. His son Akurgal ruled after him.
+##### Eannatum of Lagash
+After Akurgal came Eannatum. Eannatum is said to have conquered the entirety of Sumeria like Lugal-ane-mundu. His reach did not reach the Mediterranean like Luga-ane-mundu, reaching only as far as Mari but he instead conquered the Elamites in the east. His empire wasn't stable and there were many revolts during his reign. He was succeeded by his brother and then his nephew Entemena. Entemena increased the power of Lagash during his rule and were succeeded by two more minor rulers: Enentarzi and Lugalanda. After them came Urukagina who is famous for his political reforms (as mentioned earlier).
 
-After Akurgal came Eannatum. Eannatum is said to have conquered the entirety of Sumeria like Lugal-ane-mundu. His reach did not reach the Mediterranean like Luga-ane-mundu, reaching only as far as Mari but he instead conquered the Elamites in the east.
+#### Empire of Lugalzagesi
+Lugalzagesi, originally from Umma defeated Urukagina and Sumeria until his rule was overthrown by [[Sargon of Akkad]] who created the [[Akkadian Empire]].
 
 ---------
 [^1] https://etcsl.orinst.ox.ac.uk/section2/tr212.htm
