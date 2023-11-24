@@ -5,11 +5,17 @@ aliases:
 ---
 Sargon of Akkad was the first ruler of the [[Akkadian Empire]] and in fact created the first empire[^1]. According to the [[Sumerian King List|SKL]] he created the empire by usurping Lugalzagesi, then ruler of Sumeria, and taking the rule to Akkad. The Weidner chronicle, on the other hand, say that that he ruled as an heir to Ur-Zababa of Kish to whom he was cup-bearer. What both sources agree on was that he was cup-bearer to Ur-Zababa.
 
+The story of Sargons birth and upbringing either is a legend or became a legend. The story goes as such: Sargon was born as an illegitimate son to a priestess. After his birth his mother set him in a basket and cast him into the Euphrates which carried him to Akkad. In Akkad the gardener of Ur-Zababa, Akki, raised Sargon. There he gained the favor of [[Inanna|Ishtar]] and he ruled
+
 The spelling of his name (Sargon instead of Sarru-ukin) comes from the mention in the bible ([Isaiah 20:1](https://www.biblegateway.com/passage/?search=Isaiah%2020&version=NIV;KJV)) of Sargon II (A Neo-Assyrian king). Sarru-ukin can be translated as "the king has established (stability)" or "the god has established the king". It is debated whether the name is an adopted regal name or a birth name.
 
 Sargons [[Akkadian Empire]] reached the entirety of [[Sumeria]] along with [[Elam]] in the east. Sargon attempted to conquer the entire [[Fertile Crescent]] but we know that he at least came into contact with the Eblan civilization by the Mediterranean. Some sources even say Sargon conquered Cyprus.
+
+
 ### Sargon Epos
 The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, with one text even being anachronistic.
+
+
 
 
 
