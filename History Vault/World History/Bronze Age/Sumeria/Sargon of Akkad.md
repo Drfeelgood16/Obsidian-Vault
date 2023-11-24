@@ -9,7 +9,7 @@ The spelling of his name (Sargon instead of Sarru-ukin) comes from the mention i
 
 Sargons [[Akkadian Empire]] reached the entirety of [[Sumeria]] along with [[Elam]] in the east. Sargon attempted to conquer the entire [[Fertile Crescent]] but we know that he at least came into contact with the Eblan civilization by the Mediterranean. Some sources even say Sargon conquered Cyprus.
 ### Sargon Epos
-The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, one text is even anachronistic.
+The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, with one text even being anachronistic.
 
 
 
