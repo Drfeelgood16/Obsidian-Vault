@@ -7,8 +7,9 @@ Sargon of Akkad was the first ruler of the [[Akkadian Empire]] and in fact creat
 
 The spelling of his name (Sargon instead of Sarru-ukin) comes from the mention in the bible ([Isaiah 20:1](https://www.biblegateway.com/passage/?search=Isaiah%2020&version=NIV;KJV)) of Sargon II (A Neo-Assyrian king). Sarru-ukin can be translated as "the king has established (stability)" or "the god has established the king". It is debated whether the name is an adopted regal name or a birth name.
 
+Sargons [[Akkadian Empire]] reached the entirety of [[Sumeria]] along with [[Elam]] in the east. Sargon attempted to conquer the entire [[Fertile Crescent]] but we know that he at least came into contact with the Eblan civilization by the Mediterranean. Some sources even say Sargon conquered Cyprus.
 ### Sargon Epos
-The Sargon Epos are four babylonian texts with Sargon as the main hero. The texts are "Sargon, the Conquering Hero", "King of Battle", "The Chronicle of Early Kings", and
+The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, one text is even anachronistic.
 
 
 
