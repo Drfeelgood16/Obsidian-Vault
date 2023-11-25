@@ -1,0 +1,3 @@
+Enheduanna is the only daughter of [[Sargon of Akkad]]. She served as temple goddess to the god Nanna in Ur. She would have served as the embodiment of Ningal and as such would be given an almost godlike status.
+
+During the rebellion of Lugal-Ane she refused to confirm his assumption of power and was summarily exiled. She found refuge in Girsu and there she wrote the song "Nin me šara" or in english "Exaltation of Inanna" which was an attempt to persuade [[Inanna]] to intervene on her behalf.
