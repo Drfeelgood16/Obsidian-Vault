@@ -1,0 +1,3 @@
+Manishtushu was the third ruler of the Akkadian Empire, ruling after his brother [[Rimush]]. He was succeeded by his heir Naram-Sin when he died after 15 years of rule. He, like Rimush, was a son of [[Sargon of Akkad]] and according to legend both were poisoned.
+
+Manishtushu, unlike his brother before him who was stuck in his empire quashing rebellions, campaigned in distant lands along the persian gulf.
