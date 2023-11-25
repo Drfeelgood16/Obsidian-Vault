@@ -13,9 +13,14 @@ The spelling of his name (Sargon instead of Sarru-ukin) comes from the mention i
 
 Sargons [[Akkadian Empire]] reached the entirety of [[Sumeria]] along with [[Elam]] in the east. Sargon attempted to conquer the entire [[Fertile Crescent]] but we know that he at least came into contact with the Eblan civilization by the Mediterranean. Some sources even say Sargon conquered Cyprus.
 
+### Family
+Sargons family includes a wife, Queen Tashlultum, who we only know of from a vase shard. She is considered the mother of Sargons children because there exist no contrary evidence. Sargon and Tashlulutum had 5 children: Rimush who reigned after him, Manishtu who reigned after Rimush and who is the father of Naram-Sin, Enheduanna his only daughter who was high priestess of the moon god Nanna in Ur, lastly there are two other sons who we only know the names of: Shu-Enlil and Ilaba'is-takal.
 
 ### Sargon Epos
-The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, with one text even being anachronistic.
+The Sargon Epos consists of four Babylonian text chronicling Sargons rule and conquests as a ruler. These texts are equal parts legends and chronicles, with one text even being anachronistic. His rule is also the first in a long period of Semitic rule in Mesopotamia.
+
+### Legacy
+Sargon was regarded as a model for later Mesopotamian kings. The Assyrian and Babylonian kings regarded themselves as heirs of Sargons empire. Two Assyrian kings even named themselves after Sargon of Akkad.
 
 
 
