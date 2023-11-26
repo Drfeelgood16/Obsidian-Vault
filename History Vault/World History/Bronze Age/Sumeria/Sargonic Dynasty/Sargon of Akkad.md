@@ -13,6 +13,7 @@ The spelling of his name (Sargon instead of Sarru-ukin) comes from the mention i
 
 Sargons [[Akkadian Empire]] reached the entirety of [[Sumeria]] along with [[Elam]] in the east. Sargon attempted to conquer the entire [[Fertile Crescent]] but we know that he at least came into contact with the Eblan civilization by the Mediterranean. Some sources even say Sargon conquered Cyprus.
 
+Sargon had great reverence for the Sumerian gods Inanna, Zababa, Anu, Enlil, and Nanna.
 ### Family
 Sargons family includes a wife, Queen Tashlultum, who we only know of from a vase shard. She is considered the mother of Sargons children because there exist no contrary evidence. Sargon and Tashlulutum had 5 children: Rimush who reigned after him, Manishtushu who reigned after Rimush and who is the father of Naram-Sin, [[Enheduanna]] his only daughter who was high priestess of the moon god Nanna in Ur, lastly there are two other sons who we only know the names of: Shu-Enlil and Ilaba'is-takal.
 

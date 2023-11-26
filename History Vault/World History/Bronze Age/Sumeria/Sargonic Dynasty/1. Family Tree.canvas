@@ -2,16 +2,18 @@
 	"nodes":[
 		{"id":"397ad928da714fed","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Sargon of Akkad.md","x":-280,"y":-200,"width":400,"height":400},
 		{"id":"9da8f58c982baac4","type":"text","text":"# Tashlultum","x":335,"y":-30,"width":250,"height":60},
-		{"id":"f987a81988c680e6","x":-283,"y":1002,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Naram-Sin.md"},
-		{"id":"9b0214e94cd20e32","x":-280,"y":360,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Manishtushu.md"},
-		{"id":"faee279badb07ba6","x":-800,"y":360,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Rimush.md"},
-		{"id":"3c9eac84a73722bf","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Enheduanna.md","x":260,"y":360,"width":400,"height":400}
+		{"id":"f987a81988c680e6","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Naram-Sin.md","x":-283,"y":1002,"width":400,"height":400},
+		{"id":"9b0214e94cd20e32","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Manishtushu.md","x":-280,"y":360,"width":400,"height":400},
+		{"id":"faee279badb07ba6","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Rimush.md","x":-800,"y":360,"width":400,"height":400},
+		{"id":"3c9eac84a73722bf","type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Enheduanna.md","x":260,"y":360,"width":400,"height":400},
+		{"id":"1e8cf10a1004ee27","x":-283,"y":1640,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Sumeria/Sargonic Dynasty/Shar-Kali-Sharri.md"}
 	],
 	"edges":[
 		{"id":"66618a86ed578ba4","fromNode":"397ad928da714fed","fromSide":"right","toNode":"9da8f58c982baac4","toSide":"left","label":"Wife"},
 		{"id":"1c3834fe966a8545","fromNode":"397ad928da714fed","fromSide":"bottom","toNode":"3c9eac84a73722bf","toSide":"top"},
 		{"id":"77ce44e3ef5662c2","fromNode":"397ad928da714fed","fromSide":"bottom","toNode":"9b0214e94cd20e32","toSide":"top"},
 		{"id":"2ee499f565c0bf0f","fromNode":"397ad928da714fed","fromSide":"bottom","toNode":"faee279badb07ba6","toSide":"top"},
-		{"id":"ca5449041b4d85f1","fromNode":"9b0214e94cd20e32","fromSide":"bottom","toNode":"f987a81988c680e6","toSide":"top"}
+		{"id":"ca5449041b4d85f1","fromNode":"9b0214e94cd20e32","fromSide":"bottom","toNode":"f987a81988c680e6","toSide":"top"},
+		{"id":"4bed9954f0120bca","fromNode":"f987a81988c680e6","fromSide":"bottom","toNode":"1e8cf10a1004ee27","toSide":"top"}
 	]
 }
