@@ -23,3 +23,44 @@ Enligt studieguiden ska Lucy vara den äldsta upprättgående människofyndet. M
 
 <!--Sumererna hade också en sorts bildspråk innan de gick över till kilskriften. Båda områderna hade under en punkt denna hierarki. Men hos Sumererna var prästen länge den högsta eller ekvivalent med kungen. Detta ändrades när Lugalerna kom och under Akkadiska perioden var kungarna gudar.-->
 
+Farao betyder stora huset och det är vad man kallade kungen eftersom han var för helig för att man kunde säga hans namn. Faraoer var oftast män, men man känner till fyra kvinnliga regenter där Hatchepsut är den första. Både Egypten och Mesopotamien hade slavar.
+
+### Religion
+
+De egyptiska och sumeriska samhällen var djupt religiösa och det var viktigt att blidka gudarna. Gudarna har ju skapat människorna och världen. De som hade kunskap om gudarna var prästerna som var en sluten grupp som gick i arv. Vanliga människor fick inte beträda templarna som prästerna bodde i.
+
+Egypterna trodde att själen lämnade kroppen när man dog, själen skulle sedan återvända till kroppen för att leva ett evigt liv. Därför var det viktigt att bevara kroppen så att själen kunde återvända. De materiella ting som man skulle kunna behöva i efterlivet placerades också i graven så att man kunde använda dem i efterlivet.
+
+Skarabé som man placerar på bröstet av en mumie har koppling till Khepri som är morgonsolens gud. Han sägs rulla solen runt som en dyngbagge och han representeras av en människa med en dyngbagge för huvud.
+
+Mesopotamerna begravde också deras kungar med deras rikedomar men de trodde inte att själen skulle återvända så som egypterna trodde.
+
+### Vetenskap och skrivkonst
+Egypten utvecklade en kalender med 365 dagar på ett år redan 2800 år f. Kr. Sumererna hade en kalender baserat på månen där en månad är kring 29,5 dagar i genomsnitt.
+
+Man hade kunskap om vad organen gjorde i kroppen som t. ex. hjärtat men man trodde att sjukdomar orsakades av onda andar. Så läkekonsten var ritualer eller besvärjelser för att avsvärja dessa andar. Man hade bättre koll inom kirgurgin dock där man sydde ihop sår och spjälade brutna ben.
+
+Det första skriftspråket utvecklades också i Mesopotamien: Kilskriften. Kilskriften användes först för byråkrati men blev sedermera en allmän skrift.
+
+Rosettastenen är vad som hjälpte oss förstå dessa utdöda språk. Den består av tre översättningar av samma text i Hieroglyfer, Demotisk skript, och antik grekiska. 
+### Arkitektur
+De mest kända och mest imponerande monument från denna period är pyramiderna. De är gravkamrar som också ska symbolisera faraons gudomliga status. Pyramiderna består av stora kalkstensblock med en gyllene spets på toppen som fångar solens strålar. Deras gravkamrar blev tidigt ett mål för gravplundrare vilket leder till att senare kungar begrav sig mer diskret. Dock så hjälpte inte det heller förutom för ett känt exempel i Tutanchamons grav som var orörd tills Howard Carter upptäckte den 1922.
+
+I Mesopotamien byggde man ziggurater istället gjorda av tegel. Zigguraterna var inte gravar som pyramiderna utan tempel.
+
+### Skulptur
+Skulpturer har stort symboliskt värde för att den representerar närvaron av personen den representerar. Man uppförde statyer av härskaren runt om i riket som en påminnelse på hans överhöghet. Det var stort propagandavärde i tidiga skulpturer.
+
+Konsten var väldigt idealiserad eftersom fokus var att skildra status istället för personlighet eller verklighet. Den enda gången detta ändrades var under Akhenaton som gav konsten mer frihet och mindre stelhet. Detta var för att han var mer fokuserad på religion och kultur än politik. Men efter hans död återgick man tillbaka till traditionen.
+
+### Måleri
+Måleriet var som skulpturerna hårt styrda i vad som fick förekomma. Inom egyptisk konst var t. ex. männen större än kvinnor och barn och de var männen som ledde kvinnorna. Motiven skulle avbildas från vinkeln där man tydligast kunde se vad det föreställde. Detta betyder att man stod i profil men ögat syns framifrån. Bröst och axlar avbildas framifrån men armar, ben, och höfter i profil. Perspektiv eller djup förekom inte. Måleriet var i huvudsak religiös och förekom mest i gravkamrarna. Man ville avbilda vad den avlidne skulle få återuppleva i efterlivet. Mesopotamiens konst var liknande men mindre stelt.
+
+### Litteratur
+Mycket av litteraturen var muntlig, så väldigt lite har överlevt. Det äldsta nedtecknade diktverket är *Gilgamesheposet*. Den handlar om den Urukanske kungen och halvguden Gilgameshs sökande av en ört som skulle göra honom odödlig. Exempel från Egypten är *Dödsboken* som handlar om eviga livet efter döden. Egyptiska dikter består av ett stelt språk förutom under Akhenatons tid.
+
+### Musik och Dans
+Musik och dans har en magisk innebörd enligt de tidiga civilsationerna.
+
+
+## Antika Grekland och Rom
