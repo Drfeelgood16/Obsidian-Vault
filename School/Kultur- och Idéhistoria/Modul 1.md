@@ -77,3 +77,9 @@ Greklands mörka århundraden är en period där man gick tillbaka till en tid u
 Att se sig själv som jämställd med gudarna, "Hybris", är den värsta synden och leder alltid till en hämnad "Nemesis". Att leva med måttfullhet är att följa i Apollos exempel, till motsats från hans bror Dionysius. 
 
 Antika Grekland hade en hel del lokala gudar men alla trodde på de tolv Olympiska gudarna. I gudarnas guds Zeus ära genomförde man de olympiska spelen i Peloponnesos vart fjärde år.
+
+### Arkitektur
+Romersk arkitektur präglas av valvbågarna som syns i deras akvedukter eller i Pantheon.
+
+### Skulptur 
+De flesta romerska skulptörer var greker så de behöll mycket av den grekiska stilen. Det romarna bidrog med dock är realismen. Man ville se människan som den var inte idealistiskt.
