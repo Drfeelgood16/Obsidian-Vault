@@ -83,3 +83,6 @@ Romersk arkitektur präglas av valvbågarna som syns i deras akvedukter eller i 
 
 ### Skulptur 
 De flesta romerska skulptörer var greker så de behöll mycket av den grekiska stilen. Det romarna bidrog med dock är realismen. Man ville se människan som den var inte idealistiskt.
+
+### Musik och Dans
+Var det grekernas åsikt att musikalisk utbildning var viktig eller är det Platons från "Laws"?
