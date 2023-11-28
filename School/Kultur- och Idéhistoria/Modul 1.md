@@ -73,3 +73,7 @@ Den minoiska kulturen gick under på 1400-talet f. kr. mest troligtvis för att 
 
 Greklands mörka århundraden är en period där man gick tillbaka till en tid utan skrift och handel. Detta kom tillbaka under 700-talet när man igen skapade stadstater. Under denna tid tog grekerna över handeln i medelhavet från fenicierna. Grekerna tog också feniciernas språk och ändrade på det lite så det blev den antika grekiskan. Samma grekiska som romarna tog över och gjorde vårt moderna alfabet ifrån.
 
+### Religion
+Att se sig själv som jämställd med gudarna, "Hybris", är den värsta synden och leder alltid till en hämnad "Nemesis". Att leva med måttfullhet är att följa i Apollos exempel, till motsats från hans bror Dionysius. 
+
+Antika Grekland hade en hel del lokala gudar men alla trodde på de tolv Olympiska gudarna. I gudarnas guds Zeus ära genomförde man de olympiska spelen i Peloponnesos vart fjärde år.
