@@ -64,3 +64,12 @@ Musik och dans har en magisk innebörd enligt de tidiga civilsationerna.
 
 
 ## Antika Grekland och Rom
+Begynnelsen av vår nutida västerländska kultur kan vi finna i den antika grekland och rom. Grekerna var först i världen med demokratin vilket vi sedan härledde till under renässansen. Kristendomen fick sin spridning när romarriket adopterade den som huvudreligion under sena imperiska rom.
+
+### Grekiska området
+Den första europeiska högkulturen kommer från Kreta i nuvarande Grekland och är uppkallad efter den första kungen Minos; Minoiska kulturen heter den. Kulturen var flitigt påverkad genom handel med Egypten, Mesopotamian, och Persien. Vi vet väldigt lite om den Minoiska kulturen men vi tror att den är fredlig för vi har inte hittat varken fästningar eller stridsvapen. Vi har dock hittat målningar som föreställer tjurar, därför tror vi att Minoerna dyrkade tjuren. Vi har också hittat flera små statyetter som föreställer en ormgudinna men vi vet inte vad den har för betydelse.
+
+Den minoiska kulturen gick under på 1400-talet f. kr. mest troligtvis för att de blev erövrade av Mykene från fastlandet. Mykenska kulturen, till motsats till den Minoiska, är krigisk och var fruktad för sin krigskonst. Mykenerna trodde på ett liv efter döden som Sumererna och Egypterna före dem. Mykenerna utvecklade Minoernas Linear-A språk till sitt egna Linear-B. Mykenska kulturen gick under omkring 1100 f. kr. under den sena bronsålderskollapsen vilket blev början på "Greklands mörka århundraden." 
+
+Greklands mörka århundraden är en period där man gick tillbaka till en tid utan skrift och handel. Detta kom tillbaka under 700-talet när man igen skapade stadstater. Under denna tid tog grekerna över handeln i medelhavet från fenicierna. Grekerna tog också feniciernas språk och ändrade på det lite så det blev den antika grekiskan. Samma grekiska som romarna tog över och gjorde vårt moderna alfabet ifrån.
+
