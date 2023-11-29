@@ -6,4 +6,6 @@ All knowledge either comes from others, or from what you discover yourself-- whi
 
 He kinda hints at his platonic idealism with the idea of being good at gymnastics is called being gymnastical.
 
-Choosing who we go to war with is an excercise in justice according to Plato. But we rarely enquire into these things because they are so ingrained in ourselves so early through the majority culture. Therefore we learn very little about justice without making an effort.
+Choosing who we go to war with is an excercise in justice according to Plato. But we rarely enquire into these things because they are so ingrained in ourselves so early through the majority culture. Therefore we learn very little about justice without making an effort
+
+Alcibiades' lust for power is too great for him to slow down and learn before jumping into politics. He is narcissistic.
