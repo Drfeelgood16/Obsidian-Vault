@@ -2,4 +2,5 @@
 Epic of Gilgamesh
 Dödsboken
 
-## Antiken
+On the city of god - Augustinus
+Summa Theologica - Aquinas
