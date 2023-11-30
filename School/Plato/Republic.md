@@ -84,3 +84,6 @@ What I do agree with is that a wholly evil man will create strife and will have 
 Glaucon:
 They say that to do injustice is good, but to suffer injustice is evil to greater extent than the good it injustice does. From the experience of these injustices, we create laws and governments to have neither the good nor the bad. Justice is a compromise between doing injustice and not being punished and suffering justice and having no recourse. Those who practice justice do so involuntarily because they do not possess the power to inflict injustice. If we were to give the just and unjust man the power to do unjust things we will find both of them doing injustices according to their desires.
 
+If you gave a ring of invisibility to a just or unjust man both would not be able to keep from doing whatever they desired simply because no one could witness them in the act. If a man had this ring and did nothing with it most people around him would think him a fool.
+
+It is better to seem just than to be just. If we give the unjust man the riches and rhetoric to seem just while doing unjust deeds while we give the just man a veneer of injustice we will see that the unjust man will live a happier life.
