@@ -43,3 +43,8 @@ Thrasymachus's speech about unjust winning starts with: "Because you fancy that 
 
 Socrates do not think being injustice is gainful.
 
+#### Which is more gainful? Being just or unjust.
+Thracymachus: Injustice is wise and virtuous while justice is simple and ignorant
+
+.  
+
