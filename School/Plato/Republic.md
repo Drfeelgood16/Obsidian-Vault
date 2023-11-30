@@ -90,3 +90,7 @@ It is better to seem just than to be just. If we give the unjust man the riches 
 
 **Adeimantus:**
 The reason we teach our children to be just is to gain the image of justness for the benefits which Glaucon mentioned. Poets like Homer and Hesiod both mention rulers who appear just and the benefits it brings.
+
+"For what men say is that, if I am really just and am not also thought just profit there is none, but the pain and loss on the other hand are unmistakeable. But if, though unjust, I acquire the reputation of justice, a heavenly life is promised to me."
+
+"And even if there are gods, and they do care about us, yet we know of them only from tradition and the genealogies of the poets; and these are the very persons who say that they may be influenced and turned by ‘sacrifices and soothing entreaties and by offerings.’"
