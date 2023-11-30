@@ -44,7 +44,23 @@ Thrasymachus's speech about unjust winning starts with: "Because you fancy that 
 Socrates do not think being injustice is gainful.
 
 #### Which is more gainful? Being just or unjust.
-Thracymachus: Injustice is wise and virtuous while justice is simple and ignorant
+Thracymachus: Injustice is wise and virtuous while justice is simple and ignorant.
 
-.  
+**Premise:** The just man does not take advantage of another just man. But he will of an unjust man.
+**Premise:** The unjust man will attempt to take advantage of all men.
+
+Socrates tries to map these premises onto other arts which I do not think fit.
+
+**Premise:** The artisan is wise, while the non-artisan is not wise on the subject of an art.
+**Premise:** The artisan will attempt to exceed the non-artisan but not a fellow artisan. (I do not agree with this premise. Maybe only if you have literally reached perfection)
+**Conclusion:** The wise will not desire more than his like, but more than his unlike. Therefore the just man is wise since this mold fits into him only.
+
+**Premise:** Injustice creates divisions and hatred while justice imparts harmony and friendship.
+**Therefore:** Injustice will make cooperation impossible.
+
+**Premise:** The gods are just.
+**Therefore:** He who is unjust is an enemy of the gods.
+
+
+
 
