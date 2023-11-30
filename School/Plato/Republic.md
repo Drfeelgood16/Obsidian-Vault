@@ -1,3 +1,4 @@
+# Book 1
 Socrates wants to define justice again and he essentially uses the defeater for deontology: Suppose someone has lent you weapons and asks for them back during a fit of madness it is not wrong to lie to him and deny you have these weapons.
 
 **Premise:** Simonides says that to repay a debt is good. 
@@ -61,6 +62,22 @@ Socrates tries to map these premises onto other arts which I do not think fit.
 **Premise:** The gods are just.
 **Therefore:** He who is unjust is an enemy of the gods.
 
+The end of a tool is that which can be best accomplished or only done by said tool.
+
+The soul also has an end to which nothing else can fulfill. The end of the soul is the ability to command and deliberate and life itself.
 
 
 
+**Premise:** the end of a thing is that which it excels the most at, or only it can accomplish
+**Premise:** The soul is a thing
+**Conclusion:** The soul has an end in which it excels the most at.
+What the soul excels the most at is argued to be justice, deliberation, and most of all life. 
+
+### In summary
+The only conclusion reached is that being just is more gainful than unjust. Though I don't agree with the means through which they reached that position.
+1. I do not think that the art of justice is similar to arts of navigation or shoe-making.
+2. I can't agree with a premise supposing gods are real.
+3. I also don't believe in a soul, and that justice is the end of the soul
+What I do agree with is that a wholly evil man will create strife and will have a hard time cooperating.
+
+# Book 2
