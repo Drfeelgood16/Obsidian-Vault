@@ -81,3 +81,6 @@ The only conclusion reached is that being just is more gainful than unjust. Thou
 What I do agree with is that a wholly evil man will create strife and will have a hard time cooperating.
 
 # Book 2
+Glaucon:
+They say that to do injustice is good, but to suffer injustice is evil to greater extent than the good it injustice does. From the experience of these injustices, we create laws and governments to have neither the good nor the bad. Justice is a compromise between doing injustice and not being punished and suffering justice and having no recourse. Those who practice justice do so involuntarily because they do not possess the power to inflict injustice. If we were to give the just and unjust man the power to do unjust things we will find both of them doing injustices according to their desires.
+
