@@ -1,0 +1,1 @@
+Den romanska stilen är den första enhetliga konststilen i Europa. Den är baserad på den romerska stilen med valv och pelare. Tjocka pelare och väggar behövdes när man gick över från trätak till de tunga stentaken. På grund av att väggarna är så bärande kunde man bara ha få och små fönster.
