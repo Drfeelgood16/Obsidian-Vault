@@ -17,4 +17,4 @@
 **4. Hur ansåg Voltaire, Rousseau respektive Montesquieu att en stat skulle ledas?**
 
 **5. Vad avses med Wienklassicismen?**
-Wienklassicismen är en musikalisk period och en musikalisk stil där simplicitet är i fokus. 
+Wienklassicismen är en musikalisk period och en musikalisk stil där simplicitet är i fokus. Den är fortsättningen av den sena barockens galanta stil.
