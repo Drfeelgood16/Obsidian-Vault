@@ -30,7 +30,9 @@ Som den yngsta av de tre största wienklassiska kompositörerna skulle Beethoven
 
 Beethovens musikstil är till en början lik Mozarts och Haydn. Men även i hans tidiga musik kan man finna särdrag som hans känsla för dramatik och hans pondus i sin musik. Han var också tidigt banbrytande som att lägga till en dans i pianosonaten så att den skulle behandlas lika seriöst som en symfoni. Beethoven ville att allting skulle vara större och längre så han ökade storleken på strängsektionen och la till fler blås- och bleckblåsinstrument i sin orkester. I sin sista symfoni så la han även till en kör.
 
-Beethoven var lika politisk som Mozart men istället för att predika frimurarideal så var hans fokus på jämlikhet. I sin tredje symfoni så hyllade han den franska revolutionen och tänkte dedikera symfonin till Napoleon
+Beethoven var lika politisk som Mozart men istället för att predika frimurarideal så var hans fokus på jämlikhet. I sin tredje symfoni så hyllade han den franska revolutionen och tänkte namnge och dedikera symfonin till Napoleon[^2]. Något han ångrade när han fick lära att Napoleon blev krönt till kejsare av Frankrike. När symfonin publicerades fick den namnet *Sinfonia eroica* eller hjältessymfonin med underrubriken *för att fira minnet av en stor man*.[^3] Även Beethovens nionde och mest kända symfoni är politisk. Dikten som sjungs i sista rörelsen är skriven av Friedrich Schiller som har skrivit många texter om liberalism och frihet.
+
+
 
 - **Introduktionen**: En optionell oftast långsam sektion som inte brukar repeteras senare i stycket. Det skiljer stort hur ofta kompositörer använde introduktioner, Mozart började först sent i sitt liv att använda introduktioner i sina stycken medans Beethoven hade en introduktion redan i sin första symfoni. Exempel på introduktioner är den kända dissonanta i Mozarts 19:de kvartett i C, Mozarts Prag-symfoni, och Beethovens symfonier nr. 1, 4, och 7.
 - **Expositionen**: Här introduceras de två teman som kommer att vara huvudfokus under stycket. Expositionen struktur är så att man först spelar första temat, sedan kommer en sekvens där man modulerar till det andra temats tonart, för att sedan spela det andra temat. Det andra temats tonart kan variera men under mycket utav wienklassicimen modulerade man alltid en kvint upp om man spelade i dur, eller till den parallella durtonarten om man spelade i moll (C till G i dur, Am till C i moll).
@@ -38,3 +40,4 @@ Beethoven var lika politisk som Mozart men istället för att predika frimurarid
 ------
 [1] Swafford, Jan; *Beethoven: Anguish and Triumph* s. 145-146
 [2] Swafford, Jan, s. 333 
+[3]Swafford, Jan, s. 383-384
