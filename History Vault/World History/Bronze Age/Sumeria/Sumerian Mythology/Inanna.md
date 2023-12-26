@@ -15,3 +15,5 @@ She is often symbolized by a lion or an [[Star of Inanna|Eight-pointed star]]
 The district of [[Eanna]] in Uruk houses a temple dedicated to Inanna.
 
 
+In the mythology Inanna was given the "me" or metaphysical concepts of things like prostitution etc. during a drunken stupor of [[Enki]].
+
