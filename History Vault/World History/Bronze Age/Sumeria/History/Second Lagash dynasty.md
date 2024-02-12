@@ -1,0 +1,1 @@
+After the death of [[Shar-Kali-Sharri]] Puzur-Mama declared Lagash independent
