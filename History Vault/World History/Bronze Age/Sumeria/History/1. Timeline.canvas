@@ -4,12 +4,18 @@
 		{"id":"d618b971d496c85a","type":"file","file":"World History/Bronze Age/Sumeria/History/Uruk period.md","x":126,"y":-240,"width":400,"height":400},
 		{"id":"e3124433bcbbbd2f","type":"file","file":"World History/Bronze Age/Sumeria/History/Jemdet Nasr period.md","x":680,"y":-240,"width":400,"height":400},
 		{"id":"aa6a60ce3fb8af7b","type":"file","file":"World History/Bronze Age/Sumeria/History/Early Dynastic period.md","x":1240,"y":-240,"width":400,"height":400},
-		{"id":"338a00b31b976a72","x":1800,"y":-240,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Sumeria/History/Akkadian Empire.md"}
+		{"id":"338a00b31b976a72","type":"file","file":"World History/Bronze Age/Sumeria/History/Akkadian Empire.md","x":1800,"y":-240,"width":400,"height":400},
+		{"id":"32c4b3b4182ab8f0","type":"file","file":"World History/Prehistory/Stone Age/Late Neolithic.md","x":-440,"y":360,"width":400,"height":400},
+		{"id":"9d8ad3e269ad381f","x":126,"y":360,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Chalcolithic.md"},
+		{"id":"adf8e6a7270abcfa","x":680,"y":360,"width":400,"height":400,"type":"file","file":"World History/Bronze Age/Bronze Age.md"}
 	],
 	"edges":[
 		{"id":"d85e83a14499d5cf","fromNode":"e29bf0ac29bcc431","fromSide":"right","toNode":"d618b971d496c85a","toSide":"left"},
 		{"id":"ba3d7324a09c1247","fromNode":"d618b971d496c85a","fromSide":"right","toNode":"e3124433bcbbbd2f","toSide":"left"},
 		{"id":"e0b5d1a339d70fb3","fromNode":"e3124433bcbbbd2f","fromSide":"right","toNode":"aa6a60ce3fb8af7b","toSide":"left"},
-		{"id":"82e2c3c241abae8f","fromNode":"aa6a60ce3fb8af7b","fromSide":"right","toNode":"338a00b31b976a72","toSide":"left"}
+		{"id":"82e2c3c241abae8f","fromNode":"aa6a60ce3fb8af7b","fromSide":"right","toNode":"338a00b31b976a72","toSide":"left"},
+		{"id":"0eea64b440fa31f8","fromNode":"32c4b3b4182ab8f0","fromSide":"top","toNode":"e29bf0ac29bcc431","toSide":"bottom"},
+		{"id":"2eee0d5fedac740f","fromNode":"9d8ad3e269ad381f","fromSide":"top","toNode":"d618b971d496c85a","toSide":"bottom"},
+		{"id":"386fb63e34bd34d7","fromNode":"adf8e6a7270abcfa","fromSide":"top","toNode":"e3124433bcbbbd2f","toSide":"bottom"}
 	]
 }

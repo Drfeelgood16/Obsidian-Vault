@@ -1,1 +1,1 @@
-Is an ancient motif showing a human grasping two animals facing him. The earliest known depiction is from a stamp seal from the Ubaid period in the [[Late Neolithic]].
+The Master of Animals is an ancient motif showing a human grasping two animals facing him. The earliest known depiction is from a stamp seal from the Ubaid period in the [[Late Neolithic]].
