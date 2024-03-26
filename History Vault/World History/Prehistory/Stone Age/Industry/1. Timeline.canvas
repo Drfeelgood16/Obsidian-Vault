@@ -7,10 +7,10 @@
 		{"id":"23cc47708b2d918a","type":"text","text":"[[Oldowan]]","x":-160,"y":-300,"width":250,"height":60},
 		{"id":"a0aff472329db22d","type":"text","text":"[[Chatelperronian]]","x":200,"y":60,"width":250,"height":60},
 		{"id":"29be16301445d2d3","type":"text","text":"[[Solutrean]]","x":-160,"y":300,"width":250,"height":60},
-		{"id":"f5b73c92e48abe7a","type":"text","text":"[[Middle Paleolithic]]","x":-520,"y":-55,"width":250,"height":60},
+		{"id":"f5b73c92e48abe7a","type":"text","text":"[[Stone Age]]","x":-520,"y":-55,"width":250,"height":60},
 		{"id":"8be22fcf832e53eb","type":"text","text":"[[Magdalenian]]","x":-160,"y":420,"width":250,"height":60},
-		{"id":"26e985e84a0a1eed","x":-520,"y":60,"width":250,"height":60,"type":"text","text":"[[Upper Paleolithic]]"},
-		{"id":"60598b3cf2d46ea7","x":-520,"y":-300,"width":250,"height":60,"type":"text","text":"[[Lower Paleolithic]]"}
+		{"id":"26e985e84a0a1eed","x":-520,"y":60,"width":250,"height":60,"type":"text","text":"[[Stone Age]]"},
+		{"id":"60598b3cf2d46ea7","x":-520,"y":-300,"width":250,"height":60,"type":"text","text":"[[Stone Age]]"}
 	],
 	"edges":[
 		{"id":"352832e61d156930","fromNode":"23cc47708b2d918a","fromSide":"bottom","toNode":"cffae1c5334851e7","toSide":"top"},

@@ -1,1 +1,0 @@
-The Epipalaeolithic is the era between the [[Paleolithic]] and the [[Neolithic]] in the Levant and near East. Chronologically it is the same era as the [[Mesolithic]] but it is geographically separate.

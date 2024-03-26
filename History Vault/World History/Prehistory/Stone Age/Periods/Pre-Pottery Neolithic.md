@@ -1,4 +1,4 @@
-The Pre-Pottery Neolithic (PPN) is the early era of the Neolithic. As its name tells us this era still hadn't discovered pottery. But it still has a lot of commonalities with the [[Late Neolithic]] like the use of agriculture and permanent settlements.
+The Pre-Pottery Neolithic (PPN) is the early era of the Neolithic. As its name tells us this era still hadn't discovered pottery. But it still has a lot of commonalities with the [[Stone Age]] like the use of agriculture and permanent settlements.
 
 This era can be divided further into Pre-Pottery Neolithic A through C.
 ## Pre-Pottery Neolithic A

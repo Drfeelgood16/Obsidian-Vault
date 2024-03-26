@@ -4,7 +4,7 @@ Istiden kallas också Pleistocene. Skrapor och pilspetsar är det tidigaste man 
 
 Hatar den här stilen av nästan bara återskapelser och lite fakta.
 
-Mjärde har funnits sedan jägarstenåldern, i Sverige det så kallade [[Mesolithic]].
+Mjärde har funnits sedan jägarstenåldern, i Sverige det så kallade [[Stone Age]].
 
 I hundgravar har man hittat "Ochre" i hundgravar vilket visar importansen av hundar sedan denna period.
 
