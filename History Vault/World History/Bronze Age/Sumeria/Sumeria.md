@@ -8,9 +8,6 @@ Sumer is the oldest civilization in [[Mesopotamia]] in modern day Iraq. The name
 Before the [[2. Akkadian Empire|Akkadian Empire]] Sumeria consisted of several city-states with a common language and culture. Wars between city-states was very common and cities were sacked back and forth.
 
 It is disputed where the Sumerian people came from. There are theories that they come from the [[Indus valley]], the Caucasus, or Northern Africa.
-
-
-
 ## History of Sumeria
 
 The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided into several periods. In chronological order these periods are:
@@ -21,7 +18,6 @@ The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided
 - [[1. Pre-Akkadian Sumeria#Early Dynastic Period|Early Dynastic Period]] 2900 - 2350 BCE
 
 ![[Pasted image 20231120143627.png]] Map of Sumeria showing city-states.
-
 ## Culture
 Sumerian culture was male-dominated and stratified. At the top sat the *Lugal* or *Ensi* beneath him was the free man or *lu*. Slavery was common at this time. 
 
@@ -32,6 +28,13 @@ The Sumerians had relaxed attitudes towards sex, believing for example that mast
 Marriage was mostly arranged by the parents and premarital sex was discouraged, though this might have been a later development.
 
 Musically sumerians played the flute and the lyre, some of the latter have even survived to modern times.
+## Language
+The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneifrom.
+
+The Sumerian language is a language isolate since it has no known antecedents or descendants.
+
+## Religion
+
 
 
 ## Summary
