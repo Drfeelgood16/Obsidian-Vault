@@ -35,9 +35,14 @@ The written language of Sumeria started out as hieroglyphic using ideograms. Eve
 
 The Sumerian language is a language isolate since it has no known antecedents or descendants. 
 
+Sumerian served as a scholarly and religious language long after the Semites took over Mesopotamia. Similar to how latin is used during the middle-ages and later.
+
 ## Religion
 
 
 
-## Summary
-With the help of the technologies arising from the late neolithic Mesopotamia saw extreme growth. This great growth lead to urbanization and increased social stratification which in turn lead to the first leader-priests and artisans. At first the cities seemed to live peacefully either because they did or because we just don't have evidence of war. This changed during the Early Dynastic period where hegemony of city-states in Sumeria constantly changed hands which came to an end with the [[Akkadian Empire|Akkadian Empire]]. (Needs further expansion)
+---
+Main sources:
+* Wikipedia
+* Sumerian Mythology by Samuel Noah Kramer
+* (Haven't read yet) The Sumerians: Their History, Culture, and Character by Samuel Noah Kramer
