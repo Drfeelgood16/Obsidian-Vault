@@ -38,7 +38,23 @@ The Sumerian language is a language isolate since it has no known antecedents or
 Sumerian served as a scholarly and religious language long after the Semites took over Mesopotamia. Similar to how latin is used during the middle-ages and later.
 
 ## Religion
+Sumerian religion is polytheistic and each city served their own god. These gods were all in the same pantheon.
+### Cosmology
+The Sumerians believed that heaven and earth was created by the goddess Nammu and that they were united in the form of a primeval sea. The union of the male god of heaven, *An*, and the female god of earth, *Ki*, created Enlil, the god of Air. Enlil then separated heaven and earth and carried off his mother, earth, while his father carried of heaven. The union between Enlil and Ki set the stage for the organization of the universe, the creation of man, and the establishment of civilization.
 
+The Sumerian word for universe is an-ki aka "heaven-earth" and the universe can therefore be subdivided into heaven and earth. Heaven consists of the sky and "the great above" where the sky-gods dwell. Earth consists of the ground and "the great below" which contains the underworld and the chthonic deities.
+
+The gods and their relations are as such:
+* **Nanna**, the moon god, is born of Enlil, the Air god, and his wife Ninlil, the air-goddess. 
+* **Utu**, the sun god, is born from Nanna, the moon god, and his wife Ningal
+* **Enki**, the water god, begat
+* **Uttu**, the goddess of plants.
+* **Labar**, the god of cattle
+* **Ashnan**, the grain goddess
+
+Then Ereshkigal was carried off into the netherworld by Kur (similar to the greek myth of Persephone). To avenge this deed the water-god Enki attacked Kur, the result of this conflict is not known.
+
+Sumerians believed in an afterlife in the underworld and that unburied people would have no rest in the nether world.
 
 
 ---
