@@ -4,7 +4,7 @@ Ores of tin and copper are usually not found together so creating bronze require
 
 A civilization needn't to have made the Bronze themselves to be part of the Bronze Age. All that is necessary is for them to have possessed bronze items, so if a civilizations sole source of bronze tools is through trade they are still part of the bronze age provided they actually possessed it.
 
-This age is the first age where organized and stratified societies appeared. With these societies came new requirements and developments. Centralized governments, advanced architectural projects, and writing systems were invented in this era. The earliest writing systems were developed in [[Mesopotamia]] with the [[cuneiform]] script and in Egypt with the Hieroglyphs.
+This age is the first age where organized and stratified societies appeared. With these societies came new requirements and developments. Centralized governments, advanced architectural projects, and writing systems were invented in this era. The earliest writing systems were developed in [[Mesopotamia]] with the [[Cuneiform]] script and in Egypt with the Hieroglyphs.
 
 The bronze age ended with the [[Late Bronze Age collapse]] between 1200 and 1150 BCE.
 

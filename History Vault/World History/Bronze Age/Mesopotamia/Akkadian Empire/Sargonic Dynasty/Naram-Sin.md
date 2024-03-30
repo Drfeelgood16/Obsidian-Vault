@@ -1,4 +1,4 @@
-Naram-Sin was the fourth king of the [[2. Akkadian Empire]] he was preceded by his father [[Manishtushu]]. Naram-Sin was the greatest king since [[Sargon of Akkad]] (his grandfather) and ruled for 36 years. It was during Naram-Sin's rule that the Akkadian Empire was most vast. Naram-Sin was succeeded by his son Shar-Kali-Sharri after his death. 
+Naram-Sin was the fourth king of the [[Akkadian Empire]] he was preceded by his father [[Manishtushu]]. Naram-Sin was the greatest king since [[Sargon of Akkad]] (his grandfather) and ruled for 36 years. It was during Naram-Sin's rule that the Akkadian Empire was most vast. Naram-Sin was succeeded by his son Shar-Kali-Sharri after his death. 
 
 Naram-Sin increased royal control over the city-states by appointing his sons as governors and his daughters as priestesses. He solidified control over Elam.
 

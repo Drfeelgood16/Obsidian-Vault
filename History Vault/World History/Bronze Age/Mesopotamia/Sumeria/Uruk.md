@@ -31,7 +31,7 @@ In period III Eanna saw very different architecture compared to earlier periods.
 
 ## Downfall of Uruk
 
-Uruk was eventually annexed by the [[2. Akkadian Empire]] and went into decline. Uruk enjoyed a revival during the later Neo-Sumerian period under the sovereignty of Ur which saw a new temple for Inanna. Uruk continued to see ups when it was under sovereignty of other empires and declines when these empires ended until it's eventual decline caused by the Euphrates diverging.
+Uruk was eventually annexed by the [[Akkadian Empire]] and went into decline. Uruk enjoyed a revival during the later Neo-Sumerian period under the sovereignty of Ur which saw a new temple for Inanna. Uruk continued to see ups when it was under sovereignty of other empires and declines when these empires ended until it's eventual decline caused by the Euphrates diverging.
 
 -----------
 
