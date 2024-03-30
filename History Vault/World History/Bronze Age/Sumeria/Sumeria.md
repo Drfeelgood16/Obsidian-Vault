@@ -28,8 +28,10 @@ The Sumerians had relaxed attitudes towards sex, believing for example that mast
 Marriage was mostly arranged by the parents and premarital sex was discouraged, though this might have been a later development.
 
 Musically sumerians played the flute and the lyre, some of the latter have even survived to modern times.
+
+The literature and culture of Sumeria influenced the ancient Israelites, Assyrians, Babylonians, Hittites, and even the Greeks. For example the text "Enmerkar and the Lord of Aratta" has a similar narrative to the Torahs Tower of Babel parable.
 ## Language
-The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneifrom.
+The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneiform.
 
 The Sumerian language is a language isolate since it has no known antecedents or descendants.
 
