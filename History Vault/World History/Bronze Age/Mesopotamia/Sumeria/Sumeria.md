@@ -47,15 +47,12 @@ The Sumerian word for universe is an-ki aka "heaven-earth" and the universe can 
 The gods and their relations are as such:
 * **Nanna**, the moon god, is born of Enlil, the Air god, and his wife Ninlil, the air-goddess. 
 * **Utu**, the sun god, is born from Nanna, the moon god, and his wife Ningal
-* **Enki**, the water god, begat
+* **Enki**, the water god, and god of wisdom begat
 * **Uttu**, the goddess of plants.
 * **Labar**, the god of cattle
 * **Ashnan**, the grain goddess
 
-Then Ereshkigal was carried off into the netherworld by Kur (similar to the greek myth of Persephone). To avenge this deed the water-god Enki attacked Kur, the result of this conflict is not known.
-
 Sumerians believed in an afterlife in the underworld and that unburied people would have no rest in the nether world.
-
 
 ---
 Main sources:
