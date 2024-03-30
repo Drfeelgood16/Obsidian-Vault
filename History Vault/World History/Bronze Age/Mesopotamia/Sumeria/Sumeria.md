@@ -31,9 +31,9 @@ Musically sumerians played the flute and the lyre, some of the latter have even 
 
 The literature and culture of Sumeria influenced the ancient Israelites, Assyrians, Babylonians, Hittites, and even the Greeks. For example the text "Enmerkar and the Lord of Aratta" has a similar narrative to the Torahs Tower of Babel parable.
 ## Language
-The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneiform.
+The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneiform. What is unique about ancient Sumerian texts is that they are unmodified and uncodified by later compilers and commentators like the Bible or the Iliad who have had millenias of modifications of the source material.
 
-The Sumerian language is a language isolate since it has no known antecedents or descendants.
+The Sumerian language is a language isolate since it has no known antecedents or descendants. 
 
 ## Religion
 
