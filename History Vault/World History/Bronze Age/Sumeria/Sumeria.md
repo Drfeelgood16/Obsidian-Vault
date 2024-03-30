@@ -5,7 +5,9 @@ aliases:
 ---
 Sumer is the oldest civilization in [[Mesopotamia]] in modern day Iraq. The name Sumer comes from what the [[2. Akkadian Empire|Akkadian]] people called them, sumerians instead called their land "kengir". Sumerians also referred to themselves as the "black-headed people". 
 
-It is disputed where the Sumerian people came from. Some argue they came from the [[Indus valley]], some argue they came from the Caucasus, some even argue they came from Northern Africa. We do not know for certain where they came from.
+Before the [[2. Akkadian Empire|Akkadian Empire]] Sumeria consisted of several city-states with a common language and culture. Wars between city-states was very common and cities were sacked back and forth.
+
+It is disputed where the Sumerian people came from. There are theories that they come from the [[Indus valley]], the Caucasus, or Northern Africa.
 
 ## History of Sumeria
 
