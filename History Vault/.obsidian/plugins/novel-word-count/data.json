@@ -817,21 +817,21 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 159,
+      "wordCount": 236,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.53,
-      "characterCount": 1045,
-      "nonWhitespaceCharacterCount": 860,
-      "readingTimeInMinutes": 0.6,
+      "pageCount": 0.7866666666666666,
+      "characterCount": 1489,
+      "nonWhitespaceCharacterCount": 1244,
+      "readingTimeInMinutes": 0.8905660377358491,
       "linkCount": 11,
       "embedCount": 0,
       "aliases": [
         "Ishtar"
       ],
       "createdDate": 1700085902069,
-      "modifiedDate": 1711815288243,
-      "sizeInBytes": 1075
+      "modifiedDate": 1711922927004,
+      "sizeInBytes": 1516
     },
     "World History/Bronze Age/Mesopotamia/Sumeria/Sumerian King List.md": {
       "isCountable": true,
@@ -1476,6 +1476,24 @@
       "createdDate": 1700526415909,
       "modifiedDate": 1700592314958,
       "sizeInBytes": 457
+    },
+    "World History/Bronze Age/Mesopotamia/Sumeria/Sumerian Mythology/Ninshubur.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 169,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1711922094896,
+      "modifiedDate": 1711922306478,
+      "sizeInBytes": 169
     }
   }
 }
