@@ -42,7 +42,9 @@ Sumerian religion is polytheistic and each city served their own god. These gods
 ### Cosmology
 The Sumerians believed that heaven and earth was created by the goddess Nammu and that they were united in the form of a primeval sea. The union of the male god of heaven, *An*, and the female god of earth, *Ki*, created Enlil, the god of Air. Enlil then separated heaven and earth and carried off his mother, earth, while his father carried of heaven. The union between Enlil and Ki set the stage for the organization of the universe, the creation of man, and the establishment of civilization.
 
-The Sumerian word for universe is an-ki aka "heaven-earth" and the universe can therefore be subdivided into heaven and earth. Heaven consists of the sky and "the great above" where the sky-gods dwell. Earth consists of the ground and "the great below" which contains the underworld and the chthonic deities.
+The Sumerian word for universe is an-ki aka "heaven-earth" and the universe can therefore be subdivided into heaven and earth. Heaven consists of the sky and "the great above" where the sky-gods dwell. Earth consists of the ground and "the great below" which contains the underworld and the chthonic deities. Below "the great below" is the primeval sea that Nammu inhabits where Enlil was born.
+
+### Gods
 
 The gods and their relations are as such:
 * **Nanna**, the moon god, is born of Enlil, the Air god, and his wife Ninlil, the air-goddess. 
@@ -52,7 +54,24 @@ The gods and their relations are as such:
 * **Labar**, the god of cattle
 * **Ashnan**, the grain goddess
 
-Sumerians believed in an afterlife in the underworld and that unburied people would have no rest in the nether world.
+### Myths
+
+Some time after heaven and earth was separated Ereshkigal was taken to the underworld by Kur, The ruler of the underworld (Kur is also the name for the underworld, like hades in greek mythology). In response Enki, the water god, sailed off to rescue or avenge Ereshkigal. The result of this tale is unknown since we only know it as a prelude to another story (Gilgamesh, Enkidu, and the underworld). What is most likely is that Enki was victorious. This myth is the earliest form of the dragon-slaying myth that we know from greek mythology for example.
+
+The myth of a great flooding is Sumerian in origin and so is also the famous Ark that saves the people.
+
+### Temples and Worship
+Sumerian Temples were called ziggurats and were giant pyramids made from fired and unfired bricks. Only priestesses were allowed to be on the ziggurats in which they lived on the lower levels. The gods themselves were supposed to live at the top of the ziggurat and only the head temple priestess was allowed up there to communicate with them.
+
+The sumerian people worshipped mainly the god of the city but the neighboring cities gods were part of the same pantheon.
+
+## Life
+Sumerians lived in great cities with populations up to about 80 000. Technological advancements like irrigation, pottery, and the pickax made supporting this amount of people possible. The irrigation system was vast and complex and allowed the Sumerians to grow crops to excess enough that they were a wealthy people through trade. 
+
+Work was commonly given out by the government for upkeep of old irrigation trenches or to build new ones. This allowed the landless to get food without owning a farm themselves.
+
+## Trade
+Mesopotamia was a central hub between India, Egypt, and Europe. Sumerian export of grain allowed them to purchase vast amounts of tin from either Elam, India, or Egypt to supply them with bronze tools. They imported gold and jewelry from Egypt.
 
 ---
 Main sources:
