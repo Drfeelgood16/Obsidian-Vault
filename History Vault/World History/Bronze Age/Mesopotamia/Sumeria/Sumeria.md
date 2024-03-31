@@ -38,7 +38,7 @@ The literature and culture of Sumeria influenced the ancient Israelites, Assyria
 
  The Sumerians invented the astrological sign and the 24 hour clock by dividing the day up into 12 day-hours and 12 night-hours.
 ## Language
-The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneiform. What is unique about ancient Sumerian texts is that they are unmodified and uncodified by later compilers and commentators like the Bible or the Iliad who have had millenias of modifications of the source material.
+The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* parts of which was written during the [[Post-Akkadian Sumeria#Third Dynasty of Ur / Ur III / Neo-Sumerian Empire|Ur III]]  period. What is unique about ancient Sumerian texts is that they are unmodified by later compilers and commentators unlike the Bible or the Iliad who have had millenniums of modifications to the source material.
 
 The Sumerian language is a language isolate since it has no known antecedents or descendants. 
 
