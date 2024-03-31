@@ -16,9 +16,9 @@ The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided
 - [[Pre-Akkadian Sumeria#Uruk Period|Uruk Period]] 4000 - 3000 BCE
 - [[Pre-Akkadian Sumeria#Jemdet Nasr Period|Jemdet Nasr Period]] 3100 - 2900 BCE
 - [[Pre-Akkadian Sumeria#Early Dynastic Period|Early Dynastic Period]] 2900 - 2350 BCE
-- [[Post-Akkadian Sumeria#Second Lagash Dynasty|Second Lagash Dynasty]]
-- [[Post-Akkadian Sumeria#Fifth Dynasty of Uruk|Fifth Dynasty of Uruk]]
-- [[Post-Akkadian Sumeria#Third Dynasty of Ur / Neo-Sumerian Empire|Neo-Sumerian Empire]]
+- [[Post-Akkadian Sumeria#Second Lagash Dynasty|Second Lagash Dynasty]] 2230–2110 BCE
+- [[Post-Akkadian Sumeria#Fifth Dynasty of Uruk|Fifth Dynasty of Uruk]] 2055–2048 BCE
+- [[Post-Akkadian Sumeria#Third Dynasty of Ur / Neo-Sumerian Empire|Neo-Sumerian Empire]] 2047–1940 BCE
 
 After the fall of the Neo-Sumerian empire southern Mesopotamia became inhabited by the Semites from the northern parts of Mesopotamia who created the empires of [[Babylon]] and [[Assyria]].
 
@@ -35,6 +35,8 @@ Marriage was mostly arranged by the parents and premarital sex was discouraged, 
 Musically sumerians played the flute and the lyre, some of the latter have even survived to modern times.
 
 The literature and culture of Sumeria influenced the ancient Israelites, Assyrians, Babylonians, Hittites, and even the Greeks. For example the text "Enmerkar and the Lord of Aratta" has a similar narrative to the Torahs Tower of Babel parable.
+
+ The Sumerians invented the astrological sign and the 24 hour clock by dividing the day up into 12 day-hours and 12 night-hours.
 ## Language
 The written language of Sumeria started out as hieroglyphic using ideograms. Eventually it developed into the well known *cuneiform* with the wedge shaped strokes. A well known work from Sumeria is the *Epic of Gilgamesh* written in standard Sumerian cuneiform. What is unique about ancient Sumerian texts is that they are unmodified and uncodified by later compilers and commentators like the Bible or the Iliad who have had millenias of modifications of the source material.
 

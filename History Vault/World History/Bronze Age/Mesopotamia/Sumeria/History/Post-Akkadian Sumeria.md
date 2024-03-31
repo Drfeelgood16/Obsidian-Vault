@@ -15,4 +15,6 @@ After the death of Utu-Hengal who drove away the Gutians, Ur-Nammu of Ur founded
 
 Ur-Nammus successor Shulgi made sweeping reforms in the empire by instituting taxes, a national calendar, and archives. Shulgi wasn't a passive leader and his military conquest were many. He captured Susa from the Elamites and expanded northwards towards Akkad. At the height of the expansion Ur reached as far as Anatolia.
 
+Ur III is also known for its advancements in culture and relative peace which allowed the culture, technology, and economy to prosper.
+
 After a failed campaign into Elam, the Elamites combined forces with Susa and surrounded Ur. They sacked the city, ended the dynasty and occupied Sumeria. This would be the end of Sumerian rule in Mesopotamia. Eventually the semites would kick out the Elamites from Sumeria and establish the civilization of [[Babylon]]. 
