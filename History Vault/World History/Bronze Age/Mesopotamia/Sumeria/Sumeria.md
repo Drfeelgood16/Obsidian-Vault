@@ -3,7 +3,7 @@ aliases:
   - Sumerian
   - Sumer
 ---
-Sumer is the oldest civilization in [[Mesopotamia]] in modern day Iraq. The name Sumer comes from what the [[Akkadian Empire|Akkadian]] people called them. Sumerians themselves called their land "kengir" which translated means "Country of the noble lords". Sumerians also referred to themselves as the "black-headed people". 
+Sumer is the oldest civilization in [[Mesopotamia]] in modern day Iraq. The name Sumer comes from what the [[Akkadian Empire|Akkadian]] people called them. Sumerians themselves called their land "kengir" which translated means "Country of the noble lords". In the bible they are referred to as Shinar. Sumerians referred to themselves as the "black-headed people". 
 
 Before the [[Akkadian Empire|Akkadian Empire]] Sumeria consisted of several city-states with a common language and culture. Wars between city-states was very common and cities were sacked back and forth.
 
@@ -16,6 +16,11 @@ The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided
 - [[Pre-Akkadian Sumeria#Uruk Period|Uruk Period]] 4000 - 3000 BCE
 - [[Pre-Akkadian Sumeria#Jemdet Nasr Period|Jemdet Nasr Period]] 3100 - 2900 BCE
 - [[Pre-Akkadian Sumeria#Early Dynastic Period|Early Dynastic Period]] 2900 - 2350 BCE
+- [[Post-Akkadian Sumeria#Second Lagash Dynasty|Second Lagash Dynasty]]
+- [[Post-Akkadian Sumeria#Fifth Dynasty of Uruk|Fifth Dynasty of Uruk]]
+- [[Post-Akkadian Sumeria#Third Dynasty of Ur / Neo-Sumerian Empire|Neo-Sumerian Empire]]
+
+After the fall of the Neo-Sumerian empire southern Mesopotamia became inhabited by the Semites from the northern parts of Mesopotamia who created the empires of [[Babylon]] and [[Assyria]].
 
 ![[Pasted image 20231120143627.png]] Map of Sumeria showing city-states.
 ## Culture

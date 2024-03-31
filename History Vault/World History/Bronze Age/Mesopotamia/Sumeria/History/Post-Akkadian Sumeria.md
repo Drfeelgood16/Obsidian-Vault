@@ -10,7 +10,7 @@ The last ruler of the Second Dynasty is Nam-Mahani who is mainly known for being
 # Fifth Dynasty of Uruk
 The fifth dynasty of Uruk consists of only one ruler. It is believed that Utu-Hengal was a governor of Uruk that revolted against the Gutian rule and later would lead the cities of Sumer to overthrow the Gutian king Tirigan. After the victory against the Gutians he established himself as king of Sumeria until his seventh year when he died in an accident. He was succeeded by his son-in-law Ur-Nammu, the governor of Ur.
 
-# Third Dynasty of Ur / Neo-Sumerian Empire
+# Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
 After the death of Utu-Hengal who drove away the Gutians, Ur-Nammu of Ur founded the Third Dynasty of Ur by killing the last ruler of the Second Lagash Dynasty in battle. To consolidate power he wrote the famous *Code of Ur-Nammu*.
 
 Ur-Nammus successor Shulgi made sweeping reforms in the empire by instituting taxes, a national calendar, and archives. Shulgi wasn't a passive leader and his military conquest were many. He captured Susa from the Elamites and expanded northwards towards Akkad. At the height of the expansion Ur reached as far as Anatolia.
