@@ -18,4 +18,8 @@ The district of [[Eanna]] in Uruk houses a temple dedicated to Inanna.
 In the mythology Inanna was given the "me" or metaphysical concepts of things like prostitution etc. during a drunken stupor of [[Enki]].
 
 # Inanna's descent to the underworld
-The myth "Inanna's descent to the underworld" tells the story of when Inanna descended to the sumerian version of the land of the dead. When she arrives in the underworld she is separated from her belongings and turned into a corpse. Her *sukkal* Ninshubur, following Inannas orders, plead with the gods Enlil, Nanna, and Enki for her safe return. Enlil and Nanna refused her because Inannas lust for power displeased them.
+The myth "Inanna's descent to the underworld" tells the story of when Inanna descended to the underworld in search of power. She was judged and killed by the seven Anunnas for her hubris. Enki created two beings that brought her back on one condition --she had to bring a substite in her stead. Her husband Dumuzid angered her in an unknown way and was the one chosen to be in her stead.
+
+---
+Unlike what the wikipedia page says, the claim that the gala-tura and kur-jara was genderless is not sourced correctly on the page, their gender is just unspecified.
+*(2024-04-01)*
