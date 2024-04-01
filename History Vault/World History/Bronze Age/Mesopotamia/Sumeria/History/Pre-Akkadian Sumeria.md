@@ -1,4 +1,4 @@
-Sumerian history can be divided into several
+Sumerian history can in it's long history between be divided into several periods. This entry only contains the periods before the semite [[Sargon of Akkad]] conquered the entirety of [[Sumeria]] and established the [[Akkadian Empire]]. For the Sumerian renaissance after Akkad's downfall see: [[Post-Akkadian Sumeria]].
 
 # Ubaid Period
 The Ubaid period is a [[Prehistory|prehistoric]] period that lasts from about 5500 - 3700 BCE. The name comes from Tell al-'Ubaid; the largest early excavation of material from this period. The Ubaid culture has the first temples of public architecture in Mesopotamia. The Ubaid culture saw increased social stratification and was the first period to see an elite class of hereditary chieftains. The method of expansion during this era was cultural and ideological compared to the later militaristic Uruk expansions. We don't know for certain if warfare happened during this era. In modern Kuwait, which would have been far below sea in this period, archaeologists have found boats that come from this region, proving that sailing had been invented during or before the Ubaid period.

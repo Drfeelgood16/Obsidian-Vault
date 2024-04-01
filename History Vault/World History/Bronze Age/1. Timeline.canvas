@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"c2580d495ecf6a65","type":"text","text":"# Egypt","x":-480,"y":-520,"width":250,"height":100},
+		{"id":"66910b84a1ca593b","type":"text","text":"# Elam","x":-480,"y":-360,"width":250,"height":100},
+		{"id":"8c0c8489b84bf160","type":"text","text":"# Mesopotamia","x":-480,"y":-200,"width":250,"height":100},
+		{"id":"0a221b2be9041587","type":"text","text":"## Ubaid Period\n5500 - 3700 BCE\n","x":-140,"y":-200,"width":251,"height":100},
+		{"id":"9b825113b4d077e9","x":180,"y":-360,"width":250,"height":100,"type":"text","text":"## Proto-Elamite\n3200 - 2700 BCE"}
+	],
+	"edges":[]
+}
