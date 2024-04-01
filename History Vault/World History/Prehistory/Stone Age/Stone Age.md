@@ -82,6 +82,3 @@ In the later Ubaid culture the first depiction of the [[Master of Animals]] is f
 Man lived as hunter-gatherer nomads in the majority of the Stone Age. As hunter-gatherers a community settled town in an advantageous spot for hunting and when their prey migrated man migrated with them. Life was mostly spent gathering food and creating tools.
 
 It wasn't until the Neolithic that mankind started cultivating crops. With the development of agriculture and pastoralism it was no longer necessary to live a nomadic life. Instead man settled down where it where it was prosperous. These settlements then turned into towns and the towns turned into the first civilizations. This development was mainly focused in the [[Fertile Crescent]] but other cradles of civilization also developed almost simultaneously.
-
-When man started settling they started living in towns which eventually turned into city-states ruled by kings, priestesses, or god-emperors. Neighboring city-states warred constantly over borders and other disputes.
-
