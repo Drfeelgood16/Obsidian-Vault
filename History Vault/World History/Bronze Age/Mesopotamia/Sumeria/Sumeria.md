@@ -22,7 +22,7 @@ The history of Sumer lasts between about 5000 BCE to 2000 BCE and can be divided
 
 After the fall of the Neo-Sumerian empire southern Mesopotamia became inhabited by the Semites from the northern parts of Mesopotamia who created the empires of [[Babylon]] and [[Assyria]].
 
-![[Pasted image 20231120143627.png]] Map of Sumeria showing city-states.
+![[Pasted image 20231120143627.png]] Map of Sumeria showing city-states and their more well known Akkadian names (In Sumerian *Uruk* would have been called *Unug*, *Ur* called *Urim* etc.)
 ## Culture
 Sumerian culture was male-dominated and stratified. At the top sat the *Lugal* or *Ensi* beneath him was the free man or *lu*. Slavery was common at this time. 
 

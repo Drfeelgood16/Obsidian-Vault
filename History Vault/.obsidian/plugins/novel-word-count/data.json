@@ -858,13 +858,13 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1207,
+      "wordCount": 1226,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.023333333333333,
-      "characterCount": 7473,
-      "nonWhitespaceCharacterCount": 6231,
-      "readingTimeInMinutes": 4.554716981132075,
+      "pageCount": 4.086666666666667,
+      "characterCount": 7589,
+      "nonWhitespaceCharacterCount": 6328,
+      "readingTimeInMinutes": 4.626415094339623,
       "linkCount": 14,
       "embedCount": 1,
       "aliases": [
@@ -872,8 +872,8 @@
         "Sumer"
       ],
       "createdDate": 1699860816848,
-      "modifiedDate": 1711906087884,
-      "sizeInBytes": 7518
+      "modifiedDate": 1711971564636,
+      "sizeInBytes": 7634
     },
     "World History/Bronze Age/Mesopotamia/Sumeria/Media/Diagram of Eanna.png": {
       "isCountable": false,
