@@ -31,7 +31,7 @@ The bow and arrow was invented early in this era and have been found in the Fa-H
 The Franco-Cantabrian region is the most populated region during the Upper Paleolithic. It is a geographic region near the Pyrenees including most of southern France and the very top of Spain.![[Franco-Cantabrian region.gif]]
 It is this regions industries that have previously been listed. There exist other less widespread cultures like the Ahrensburg Culture.
 ## Mesolithic
-The Mesolithic spans the years of 20 000 years ago to 5 000 years ago but the it differs geographically. In the Levant for example it spans between 20 000 to 5 000.
+The Mesolithic spans the years of 20 000 years ago to 5 000 years ago but the age differs geographically. In the Levant for example it spans between 20 000 to 5 000.
 
 Signifiers of this era are the smaller "microlithic" tools and a change from hunting megalomania into a more hunter-gatherer style of life. This was later replaced by macrolithic tools in the [[Stone Age]]. Pottery and textiles were also used in some parts during this era.
 
