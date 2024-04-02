@@ -2,4 +2,4 @@ Elam (also known as Susiana by the Greeks) is the oldest known civilization in t
 # History
 Elam was urbanized along with [[Sumeria]] during the [[Chalcolithic]] period at around 3000 BCE. The history of Elam can be divided into five periods.
 ## Proto-Elamite period
-The Proto-Elamite period, also known as Susa II, stretches from 3100 - 2700 BC. The texts from this period is written in Proto-Elamite script, an ideographic script similar to the Proto-Cuneiform. Proto-Elamite remains majority untranslated though we know the content of texts
+The Proto-Elamite period, also known as Susa II, stretches from 3100 - 2700 BC. The texts from this period is written in Proto-Elamite script, an ideographic script similar to the Proto-Cuneiform. Proto-Elamite remains majority undeciphered though we still know the content of some texts through the symbolic meanings.
