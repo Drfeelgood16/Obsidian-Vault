@@ -1,4 +1,9 @@
 The Amorites was a semitic people originating from the north-western part of Mesopotamia. The Amorites gained prominence after the fall of Sumeria and would eventually create the Babylonian Empire. They also founded the Fourteenth Dynasty of Egypt.
 
 # History
-The first known mention of the Amorites is from the Ur III text *Enmerkar and the lord of Aratta* which is set in the Early Dynastic Period. In the text Enmerkar refers to the Amorites as "Mar-tu".
+
+## Third Millenium BC
+The first known mention of the Amorites are from texts written in Ur III that reference kings that lived in the Early Dynastic period of Sumeria like Enmerkar and Lugalbanda. They were also known to the Semitic kingdom of Ebla from around 2500 BC. The Amorites was one of the "four quarters of the world" that Akkad conquered.
+
+The only description we have of the Amorites in the third millenia come from the Ur III period. They were described as a collection of nomadic tribes and them moving east towards Sumer was hard for the Sumerians to deal with.
+## Second Milleium BC
