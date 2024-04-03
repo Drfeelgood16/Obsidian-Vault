@@ -1,0 +1,3 @@
+# History
+## Isin-Larsa period
+Nearing the end of the Neo-Sumerian Empire Ishbi-Erra was a high officer working for the Emperor Ibbi-Sin. Tensions grew between them when Ishbi-Erra was sent out to acquire grain in Isin and Kazallu. Ishbi-Erra had bought the grain but Ibbi-Sin provided no way to transport the grain back to Ur. Isbhi-Erra requested the governorship of Isin and Nippur, which Ibbi-Sin rejected outright but Ishbi-Erra wrested control anyway. Ishbi-Erras influence would only grow while Ibbi-Sins influence dropped until the Empire fell.
