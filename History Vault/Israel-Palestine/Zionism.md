@@ -1,1 +1,0 @@
-Zionism had it's roots in the [[Jewish Pogroms in Russia]] and as a response to the Haskalah or the "Jewish enlightenment" during the 19th century. The movement tried to stay apolitical and the main goal was initially to allow for and to fund the ability for jews to be able to migrate back to their holy land.
