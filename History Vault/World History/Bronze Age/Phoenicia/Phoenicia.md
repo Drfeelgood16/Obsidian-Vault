@@ -2,7 +2,7 @@ Phoenicia was an ancient Semitic maritime civilization originating from the Leva
 
 Phoenicians are probably most well known for having the oldest alphabet. This alphabet was based on the Proto-Sinaitic script and was transmitted across the Mediterranean by the Phoenicians. It was then used by other civilizations to develop the Arabic script and the Greek alphabet. The Greek alphabet was the used to create our modern Latin and Cyrillic alphabets.
 
-Carthage was created by the Phoenicians possibly as an outpost to ease trade with Spain and Sardinia.
+Carthage was created by the Phoenicians possibly as an intermediate outpost to ease trade with Spain and Sardinia.
 # History
 We have very little surviving history from the Phoenicians themselves, instead most of what we know come from the account of other civilizations and excavations and those are also sparse. The early and middle Bronze Age is largely unknown and many sites haven't been excavated yet.
 
@@ -39,4 +39,22 @@ After the neglect of the rulers following Nebuchadnezzar it took little effort f
 Achaemenid rule was quite favorable for the Phoenicians to start with. The only paid about half of the tribute that they previously paid and they were given a lot of autonomy. In turn their maritime prowess gave the Persians a fleet to fight the Greeks in the Greco-Persian Wars. As a result of increasing tributes and punishments following the Achaemenid defeat at the Battle of Salamis the Phoenician city-state of Sidon led a failed rebellion against the Achaemenids leading to the destruction of Sidon.
 
 ## Hellenistic Period
-Phoenicia was one of the first regions to be conquered by Alexander the Greats invasion into western Asia. During the seven month siege of Tyre maney Phoenicians fled to Carthage. After Tyre fell the rest of Phoenicia easily came under Macedonian control.
+Phoenicia was one of the first regions to be conquered by Alexander the Greats invasion into western Asia. During the seven month siege of Tyre many Phoenicians fled to Carthage. After Tyre fell the rest of Phoenicia easily came under Macedonian control. After a relatively uneventful few years under Macedonian rule Alexander the Great died in 323 BC the Phoenicians came under Seleucid rule. The Seleucids, being the geographically largest successor of Alexander's Empire had a hard time keeping Phoenicia. In the third century BC Phoenicia came under the rule of the Ptolemaic Kingdom who held it for a century until the Seleucids reclaimed them.
+
+Under Seleucid rule the city-states of Phoenicia had a great deal of autonomy and during the Seleucid Dynastic Wars they were self-governed. Eventually the jews in the Levant revolted and defeated the Seleucids leaving the region to be self-governed until Tigranes the Great of Armenia conquered them. The Armenians only held onto the regions for a short time before the romans intervened and conquered the territory. Phoenicia was eventually incorporated into the province of Syria and under Roman rule the Phoenicians lost all of their autonomy.
+
+# Culture
+## Trade
+The Phoenicians are known for their trade connecting all of the African coast of the Mediterranean from the Strait of Gibraltar in the west to the Levant in the east. The Phoenicians had a deep relationship with the Greeks exporting Near East culture and resources to the Minoan and Mycenaean civilizations during the second millennium BC.
+
+Other than being a middleman between civilizations Phoenicians main industry was cedar wood exports to Egypt and Mesopotamia who lacked wood resources themselves. Unable to solely live on this resource Phoenicians became skilled craftsmen in glass-making, metalworking, and wood-carving for both every day and luxury use.
+
+The most prized Phoenician good was fabrics dyed in Tyrian Purple, a dye found in the *Murex* marine snail once common on the eastern Mediterranean coast. This expensive fabric became a status symbol in several civilizations, most notably the Romans.
+
+The Phoenicians helped propagate wine across the Mediterranean and may have taught wine-making to their trading partners.
+
+## Technology
+The Phoenicians might be the first to invent the bireme and the trireme. The Phoenicians are also credited with inventing the Amphora.
+
+## Politics
+The city-states were highly independent and alliances were rare. Phoenician society was monarchical early on with a king at the top and nobles and merchants beneath him. Later on the councils were created to advise the kings, eventually taking greater power from the kings. Tyre later on in the sixth century even adopting a similar system to the Roman consuls.
