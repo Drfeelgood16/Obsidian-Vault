@@ -2,7 +2,7 @@ Phoenicia was an ancient Semitic maritime civilization originating from the Leva
 
 Phoenicians are probably most well known for having the oldest alphabet. This alphabet was based on the Proto-Sinaitic script and was transmitted across the Mediterranean by the Phoenicians. It was then used by other civilizations to develop the Arabic script and the Greek alphabet. The Greek alphabet was the used to create our modern Latin and Cyrillic alphabets.
 
-
+Carthage was created by the Phoenicians possibly as an outpost to ease trade with Spain and Sardinia.
 # History
 We have very little surviving history from the Phoenicians themselves, instead most of what we know come from the account of other civilizations and excavations and those are also sparse. The early and middle Bronze Age is largely unknown and many sites haven't been excavated yet.
 
@@ -33,4 +33,10 @@ During the fall of the Assyrian Empire Phoenicia had a period of relative tranqu
 
 Nebuchadnezzar followed in the footsteps of every suzerain before him and heavily exploited the wealth of Phoenicia to his own benefit. As a result there were constant Phoenician revolts and Babylonian campaigns in response. In 586 BC, fresh from the destruction of Jerusalem, Nebuchadnezzar laid siege to Tyre for an incredible 13 years until the city's capitulation.
 
-After neglect the neglect of the rulers following Nebuchadnezzar it took little effort for the Persians to wrest control of the Levant from Babylon. 
+### Vassalage under the Achaemenid Empire
+After the neglect of the rulers following Nebuchadnezzar it took little effort for the Achaemenids to wrest control of the Levant from Babylon. The annexation was finalized when Cyrus the Great conquered Babylon and the Phoenicians made the calculation to yield to the Achaemenids without resisting. The Phoenicians remained under Achaemenid rule for two centuries until the Achaemenids fell to Alexander the Great of Macedon.
+
+Achaemenid rule was quite favorable for the Phoenicians to start with. The only paid about half of the tribute that they previously paid and they were given a lot of autonomy. In turn their maritime prowess gave the Persians a fleet to fight the Greeks in the Greco-Persian Wars. As a result of increasing tributes and punishments following the Achaemenid defeat at the Battle of Salamis the Phoenician city-state of Sidon led a failed rebellion against the Achaemenids leading to the destruction of Sidon.
+
+## Hellenistic Period
+Phoenicia was one of the first regions to be conquered by Alexander the Greats invasion into western Asia. During the seven month siege of Tyre maney Phoenicians fled to Carthage. After Tyre fell the rest of Phoenicia easily came under Macedonian control.
