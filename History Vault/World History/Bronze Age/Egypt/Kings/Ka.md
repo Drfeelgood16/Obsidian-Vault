@@ -1,0 +1,1 @@
+Ka was a Pharaoh of Upper Egypt and the predecessor to [[Narmer]] who united Upper and Lower Egypt into one and by doing so establishing the First Dynasty. We know very little of Ka since there are no accounts of his life but because of the wide spread of his serekhs along the Nile it is thought he had a great influence.
