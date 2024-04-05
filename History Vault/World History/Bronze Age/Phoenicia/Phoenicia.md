@@ -29,3 +29,8 @@ When Sargon II succeeded Tiglath-Pileser III in unclear circumstances several ne
 Esarhaddon squashed another rebellion during his reign and went so far as to invade Egypt, even taking Memphis. Ashurbanipal would also campaign in the Levant and Egypt being the last Assyrian king with the power to do so. He would take Thebes and install a puppet government in Egypt. After the death of Ashurbanipal in 627 BC Assyria would devolve into a civil war allowing Phoenicia to fall out of Assyrian rule.
 
 ### Vassalage under Babylon
+During the fall of the Assyrian Empire Phoenicia had a period of relative tranquility. That ended when the two empires of Babylon and Egypt came into conflict due to their differing interests in the Assyrian Empire. Egypt wanted a friendly weak Assyrian Empire in control of the Levant but their efforts were thwarted when the Babylonians conquered the last vestiges of the Assyrian Empire. Egypt and Babylon came into conflict in the Levant with the result being an Egyptian loss and Babylon occupying the entire eastern Mediterranean coast.
+
+Nebuchadnezzar followed in the footsteps of every suzerain before him and heavily exploited the wealth of Phoenicia to his own benefit. As a result there were constant Phoenician revolts and Babylonian campaigns in response. In 586 BC, fresh from the destruction of Jerusalem, Nebuchadnezzar laid siege to Tyre for an incredible 13 years until the city's capitulation.
+
+After neglect the neglect of the rulers following Nebuchadnezzar it took little effort for the Persians to wrest control of the Levant from Babylon. 
