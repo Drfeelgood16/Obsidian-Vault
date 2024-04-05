@@ -14,3 +14,18 @@ The Phoenicians weathered the Bronze Age Collapse relatively well compared to th
 
 ## Iron Age
 This continued far into the Iron age and their influence might have reached so far as Sardinia and Spain while they had colonies on several Mediterranean islands. The height of Phoenicia is believed to be during the late Iron Age.
+
+Eventually during the latter half of the Iron Age when neighboring militaristic empires began to rise again the small mercantile city-states of Phoenicia had no means to defend themselves. As a result they ended up being vassals to the major powers in the region and had to pay great levies and taxes to their suzerain.
+
+### Vassalage under Assyria
+Under the rule of Tiglath-Pileser I (1115-1077 BC) Assyria invaded and conquered several Phoenician states but Assyria fell into decline and couldn't hold on the extremities of their territories including Phoenicia. After a period of expanding their territories northward and eastward the Assyrians eventually looked west towards the Levant.
+
+In 858 BC as King Shalmaneser III rose to power in Assyria he began a series of campaigns against neighboring states. The Phoenician city-states eventually fell under Assyrian rule but due to a battle that most likely ended in a stalemate he was not able to take Damascus and exert unopposed control of the region. This lead to many Phoenician city-states remaining vassals.
+
+This would change in 744 BC when Tiglath-Pileser III became ruler and once again invaded the Levant with greater success. He annexed most of Phoenicia excluding Tyre and Byblos who remained vassal states.
+
+When Sargon II succeeded Tiglath-Pileser III in unclear circumstances several neighboring civilizations rebelled, among them the Syrian and Phoenician states supported by Egypt. The rebellion was doomed because of the lack of military to stop Sargon's advance eventually reaching Gaza and killing their king Hanunu. Egyptians tried again to foment a rebellion but it was thwarted by the Assyrians during planning.
+
+Esarhaddon squashed another rebellion during his reign and went so far as to invade Egypt, even taking Memphis. Ashurbanipal would also campaign in the Levant and Egypt being the last Assyrian king with the power to do so. He would take Thebes and install a puppet government in Egypt. After the death of Ashurbanipal in 627 BC Assyria would devolve into a civil war allowing Phoenicia to fall out of Assyrian rule.
+
+### Vassalage under Babylon
