@@ -5,3 +5,4 @@ The Horus name is the oldest of the five names reaching as far back as pre-dynas
 The Horus name is thought to represent the commonly held belief that the Pharaoh was an earthly manifestation of the god Horus. The eagle could also represent omnipresence and a vast power.
 
 # Nebty Name
+Nebty (nbtj) is a combination and contraction of the names of the goddesses Nekhbet and Wadjet.
