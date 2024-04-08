@@ -11,4 +11,7 @@ The Nebty name or "Two-Ladies name" is the second oldest royal title first being
 The Horus of Gold is represented by a Horus falcon perched above or beside the hieroglyph for gold. The Horus of Gold sees its first use in the Fourth Dynasty. The Horus of Gold is thought to symbolize the triumph of Horus over his uncle Set.
 
 # Prenomen
-The Prenomen or carthouche name or throne name is represented by a sedge and bee *nswt-bjtj*. It is thought to symbolize the dual kingship of Upper (sedge) and Lower (bee) Egypt.
+The prenomen or [[cartouche]] name or throne name is represented by a sedge and bee *nswt-bjtj*. It is thought to symbolize the dual kingship of Upper (sedge) and Lower (bee) Egypt. 
+
+## Use
+During the first three dynasties the prenomen was either depicted alone or with the Nebty name. From the end of the third dynasty and onward the prenomen was encircled by the [[cartouche]]
