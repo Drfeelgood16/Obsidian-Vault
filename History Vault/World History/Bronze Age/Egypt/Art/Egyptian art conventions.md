@@ -1,1 +1,7 @@
-The representation of Egyptian kings in art is very special. They were depicted with their legs, feet, and head in profile while the torso is turned to face the viewer head on. One eye, though the face is in profile, is depicted as if it was looking at the viewer head on also. It is thought that the reason why this method was used was to depict the most complete information possible about a person from a flat surface.
+In Ancient Egypt there was no "pure" art, instead all art had an ideological or religious purpose. It was thought that to depict someone in art would give the subject permanence and therefore all art were an idealized version of the world.
+
+For example people were depicted with their legs, feet, and head in profile while the torso is turned to face the viewer head on. One eye, though the face is in profile, is depicted as if it was looking at the viewer head on. When not seated the men were depicted with one foot forward while the women were depicted with the feet together.  It is thought that the reason for this convention was to depict the most complete information possible about a person from a flat surface.
+
+The proportions between the different body parts were also drawn after a set principle. The standard unit was the size of the fist and the distance from head to toe was 18 fists. If we use this size to divide the art into separate cells and lines the navel usually sat at the 11th line from the bottom. These proportions were only reserved for important people like rulers regular people were portrayed more freely.
+
+These standards were already in use when creating the Narmer Pallette from the 31st century BC and stayed in use until the conquest of Alexander the Great.
