@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fcb1e47537a505c9","x":101,"y":-903,"width":239,"height":63,"type":"text","text":"# [[Narmer]]"},
+		{"id":"62f1feb4f03f9061","x":101,"y":-760,"width":239,"height":60,"type":"text","text":"# [[Hor-Aha]]"},
+		{"id":"998d54c810d591ca","x":101,"y":-620,"width":239,"height":60,"type":"text","text":"# [[Djer]]"}
+	],
+	"edges":[
+		{"id":"ea9eb311c70be73c","fromNode":"fcb1e47537a505c9","fromSide":"bottom","toNode":"62f1feb4f03f9061","toSide":"top"},
+		{"id":"4b4a16fd2e6520f2","fromNode":"62f1feb4f03f9061","fromSide":"bottom","toNode":"998d54c810d591ca","toSide":"top"}
+	]
+}
