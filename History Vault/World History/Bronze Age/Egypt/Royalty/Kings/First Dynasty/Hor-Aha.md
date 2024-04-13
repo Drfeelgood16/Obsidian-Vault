@@ -1,1 +1,0 @@
-Hor-Aha is the second pharaoh of the First dynasty of Egypt. He is the son of [[Narmer]] and Neithhotep.

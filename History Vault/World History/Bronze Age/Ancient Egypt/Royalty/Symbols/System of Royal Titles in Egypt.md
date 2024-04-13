@@ -11,9 +11,9 @@ The Nebty name or "Two-Ladies name" is the second oldest royal title first being
 The Horus of Gold is represented by a Horus falcon perched above or beside the hieroglyph for gold. The Horus of Gold sees its first use in the Fourth Dynasty. The Horus of Gold is thought to symbolize the triumph of Horus over his uncle Set.
 
 # Prenomen ![[Prenomen.png]]
-The prenomen, also known as the [[cartouche]] name or throne name, is represented by a sedge and bee *nswt-bjtj* above the symbol of bread. It is thought to symbolize the dual kingship of Upper (sedge) and Lower (bee) Egypt. There are also several possible interpretation for what the sedge and bee are supposed to represent.
+The prenomen, also known as the [[Cartouche]] name or throne name, is represented by a sedge and bee *nswt-bjtj* above the symbol of bread. It is thought to symbolize the dual kingship of Upper (sedge) and Lower (bee) Egypt. There are also several possible interpretation for what the sedge and bee are supposed to represent.
 ## Use
-During the first three dynasties the prenomen was either depicted alone or, early on, with the Nebty name. From the end of the third dynasty and onward the prenomen was encircled by the [[cartouche]].
+During the first three dynasties the prenomen was either depicted alone or, early on, with the Nebty name. From the end of the third dynasty and onward the prenomen was encircled by the [[Cartouche]].
 
 The *nswt-bjtj* group has other uses than as a denotation of a royal name. They could also represent the kings executive officials. The symbols could also be used to denote the personal property of the pharaoh, or to signify a royal decree.
 
@@ -23,7 +23,7 @@ The *bjt* crest also expressed royal authority, the only officials allowed to to
 
 Late into the history of Ancient Egypt both the nomen and prenomen was used interchangeably which caused some confusion for Egyptologists.
 # Nomen ![[Nomen.png]]
-The nomen, or *Sa-Rê* was first introduced in combination with the prenomen until Neferirkare Kakai separated them in the Fifth Dynasty. *Sa-Rê* literally means "Son of Ra" and was written with the sign of a sun disc above a goose, usually inside a [[cartouche]]. Later on it started being placed before the cartouche. The name or nomen itself was placed inside the cartouche.
+The nomen, or *Sa-Rê* was first introduced in combination with the prenomen until Neferirkare Kakai separated them in the Fifth Dynasty. *Sa-Rê* literally means "Son of Ra" and was written with the sign of a sun disc above a goose, usually inside a [[Cartouche]]. Later on it started being placed before the cartouche. The name or nomen itself was placed inside the cartouche.
 
 # Example of the full titulary
 
