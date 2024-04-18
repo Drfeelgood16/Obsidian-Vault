@@ -28,3 +28,8 @@ Counters to Grahams Hypothesis
 4. Why haven't we among the 3 000 000 shipwrecks discovered found any ships from this supposed lost seafaring global civilization?
 
 **G:** This is the first time an archaeologist have debated this with me.
+
+I believe this civilization, like most, emerged out of shamanism. They had an advanced astronomy and a knowledge of the world\[?]. Like for example they had solved the longitude problem which wasn't solved by us until the 18th century.[^1] 
+
+--- 
+The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes?
