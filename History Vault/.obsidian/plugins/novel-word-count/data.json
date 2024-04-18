@@ -1910,6 +1910,24 @@
       "createdDate": 1713049070679,
       "modifiedDate": 1713049313064,
       "sizeInBytes": 163
+    },
+    "People/Graham Hancock/Debate with Flint Dibble.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 508,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6933333333333334,
+      "characterCount": 3112,
+      "nonWhitespaceCharacterCount": 2593,
+      "readingTimeInMinutes": 1.9169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1713439879238,
+      "modifiedDate": 1713444033724,
+      "sizeInBytes": 3112
     }
   }
 }
