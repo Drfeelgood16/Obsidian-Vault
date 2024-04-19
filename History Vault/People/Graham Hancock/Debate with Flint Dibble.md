@@ -16,7 +16,7 @@ Graham believes that the civilization from 12 000 years ago was advanced as the 
 
 Archaeologists publish whatever they find, they do not hide it. Archaeologists aren't locked in to a certain picture of the past so if new evidence says another thing than what is currently believed the archeologists will eventually follow.
 
-Summary of ideas stated.
+**Summary 1**
 1. Archaeologists follow the vast amount of data gathered and do not blindly follow their grand narrative, that is a thing of the past.
 2. The current data says that there is no linear progression in human culture. The "Birth of Civilization" is therefore an outdated idea.
 3. Modern day archaeologists publish all their data and do not hide it.
@@ -53,7 +53,7 @@ The find in Monte Verde by Tom Dillehay was also challenged by archaeologists. I
 
 The Society of American Archaeology sent a letter to Netflix asking them to reclassify *Ancient Apocalypse* to science-fiction instead of documentary. In a way trying to censor or cancel me. I don't think archaeologists are in a conspiracy against me, just that they are locked in a certain mindset that makes my ideas seem preposterous.
 
-**Summary of ideas:**
+**Summary 2:**
  1. When proof was discovered disproving the Clovis first theory, the archaeological community did not follow it like you said it would. Instead it fought tooth and nail discrediting the archaeologists who found said proof and their work.
  2. Why is the Clovis first theory being debunked in 2007 and 2012 when it, as you said, was debunked in the 1990s
  3. I do not believe that there is a conspiracy against me just that archaeologists are too locked into a certain mindset. A mindset that tries to destroy any theory that is even remotely contrary to their own. In doing so destroying careers and threatening livelihoods, even my own.
@@ -110,7 +110,7 @@ The last place on Earth that i would look for a lost civilization is in northern
 
 There is no targeted search for a lost civilization because archaeology already believes that no such thing exists.
 
-**Summary**
+**Summary 3**
 
 **G:** Claims
 1. Very little of the Sahara, Amazon, and the oceans have been surveyed. The places most likely to find a lost civilization from the late ice age, so to say that a lost civilization is impossible is dumb.
@@ -179,7 +179,7 @@ Therefore we do find from more recent times actual underwater structures that lo
 
 **G:** I believe if we were to look further we would find more evidence that Yonaguni was man made. I'm bringing these points up to address Flints apparent point that archaeology has don enough to rule out the lost civilization theory.[^4] That is what is said in the letter to Netflix from the SAA.
 
-**Summary:**
+**Summary 4:**
 **F:** In sites in the Aegean sea like Pavlopetri we find courses of rocks placed on top of each other and also artifacts like pottery and stone tools. This is unlike the site at Yonaguni which only has these megalithic rock-hewn steps.
 
 **G:** The steps at Yonaguni look similar to the ones at Sacsayhuaman.
@@ -206,7 +206,69 @@ When talking about underwater sites we have found ice age sites off the coast of
 
 **J:** How are these sites for where to search chosen
 
-**F:** In the video my colleague, Jessica Cook Hale, will explain how, but they mainly use predictive models based on the geomorphology and known sites above water.
+**F:** In the video my colleague, Jessica Cook Hale, will explain how by mainly using predictive models based on the geomorphology and known sites above water they predict where the finds underwater will be.
+
+**Summary 5:**
+**F:** We need more evidence to prove an advanced civilization lived in the Amazon since the evidence we do have seem to be contrary.
+
+The other places we have looked at like in Egypt or underwater we find only ephemeral hunter-gatherer societies.
+
+We do not choose sites randomly, instead we use already known sites combined with geomorphological data to predict where we will find sites.
+
+---
+
+We are looking underwater which you can see in examples like Cosquer Cave which have the most carbon dating from it.
+
+The Magdalenian culture that is associated with most of these painted caves dates from around the period of Grahams lost civilization. These sites are only a couple of miles from the Ice Age coast. There is not room for a lost civilization there (in the bay of Biscay.)
+
+**G:** Not in the bay of Biscay, but there might be room in the Sunda shelf. I'm not saying that we aren't going to find hunter-gatherer sites underwater just that we haven't done enough to rule out the possibility of a lost civilization. Attacking me for suggesting that there might be a lost civilization while failing to investigate the areas where one might exist is not in a great character.
+
+**F:** As archaeologists we are working from the known towards the unknown.
+
+Why do we have so much evidence for hunter-gatherer societies but not from a global advanced civilization? A global advanced civilization would leave behind monuments far easier to find than that of hunter-gatherers. What we do get are hunter-gatherers interacting with these coastlines.
+
+On Crete which is rising more than the waters because of tectonics we have investigated stone age caves which like all the others only have Paleolithic tools.
+
+Archaeologists do not write article headlines, journalists do. Archaeologists have not been focusing on debunking Clovis first, rather they have been focusing on explaining how the Americas was peopled with the newer evidence.
+
+**J:** How did you (Flint) feel about the reaction towards Dillehay?
+
+**F:** I think it is complete bullshit for colleagues of mine to shoot down actual evidence. Archaeology, like any other community includes assholes. Most archaeologists do not focus on the peopling of Americas so calling out the entire community because of that reaction is insincere.
+
+We are not just finding shipwrecks underwater. But of the shipwrecks we find, why are there none from this global seafaring civilization? This evidence does not disprove the hypothesis but makes it incredibly unlikely to be true.
+
+**J:** Can we say that there is no evidence for a lost civilization for what they have studied?
+
+**G:** Yes, but only so far as to what has been studied and the question of priorities still remain.
+
+**Summary 6:**
+**F:** In many places there isn't even room for a theoretical lost civilization.
+
+**G:** You just haven't looked where there might be room for such a civilization.
+
+**F:** Sure, but as archaeologists we are working from the unknown towards the known.
+
+**Why is there no evidence of an advanced civilization? Wouldn't we have an easier time finding the remains of such a civilization compared to the remains of hunter-gatherers? Why have we found no shipwrecks of such a civilization either?**
+
+Archaeologists aren't focusing on debunking Clovis I, journalists are. We don't write the headlines you cited. I do believe it was bullshit what happened to Dillehay, archaeologists should not ignore actual evidence.
+
+---
+
+At the island of Bimini in the Bahamas there is the controversial geological structure of Bimini road. Are you familiar with it and the work around it?
+
+**F:** Since I am not a geologist, I'll say no. But I've heard from other geologists that it is not man-made.
+
+**G:** According to this old map that seem to depict Bimini from 12 000 years ago there seem to be a road running up the middle of it.
+
+**F:** You know what would convince me? If you would geo-rectify these maps with a GIS-expert to see how they line up with real space. With these tools you could statistically measure how similar they are and that would make these maps a lot more convincing.
+
+**G:** That's a good idea.
+
+A lot of the work around the Bimini Road comes from an article of Eugene Shinn whose 1978 article contradicts much of what is currently believed about this formation.
+
+(Shows a video of Eugene Shinn joking about planting artifacts)
+
+Even if he wasn't sincere joking about it is in bad taste.
 
 --- 
 [^1] The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes? 
