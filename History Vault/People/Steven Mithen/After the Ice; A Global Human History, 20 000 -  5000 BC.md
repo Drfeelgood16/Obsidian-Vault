@@ -1,2 +1,3 @@
 The world in 20 000 BC is cold, dry, and windy. The sea level is lower due to the Glaciers taking up so much of the water connecting landmasses like Great Britain and mainland France.
 
+The Kebaran culture is the earliest epipaleolithic culture in western Asia. It is named after the site of Kebara Cave south of modern day Haifa. Kebaran culture succeeds the *Upper Paleolithic Levantine Aurignacian* culture. The Kebaran culture is characterised by the earliest collecting of wild cereals. As such it is the first step towards the agricultural revolution in the Neolithic. It is thought that the Kebaran is an ancestor to the later Natufian culture.
