@@ -12,5 +12,3 @@ The evidence does not support the statement that Gunung Padang is a pyramid or p
 
 ![[Djoser Pyramid.jpg]]Djoser Pyramid
 
-
-
