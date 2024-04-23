@@ -270,6 +270,8 @@ A lot of the work around the Bimini Road comes from an article of Eugene Shinn w
 
 Even if he wasn't sincere joking about it is in bad taste.
 
+
+
 --- 
 [^1] The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes? 
 
