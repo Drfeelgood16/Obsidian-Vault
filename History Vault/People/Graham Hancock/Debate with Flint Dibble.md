@@ -305,6 +305,44 @@ A lot of the work around Bimini road has been disputed by a single geologist who
 
 **G:** Flint is not simply an outside observer in all this controversy. He has for example added fuel to the fire in the recent Homo Naledi controversy. You attempted to smear Lee Berger, but he was too big for you to bring down. Instead you moved on to attack Danny Hilman Natawidjaja who was a smaller and easier target. You portrayed Gunung Padang as a pyramid scheme, which is an insult in itself.[^6]
 
+<<<<<<< HEAD
+In an interview with Dr. Lutfi Yondri you character assassinated Danny.
+
+**F:** Lutfi Yondri did major excavations at Gunung Padang.
+
+**G:** There's a conflict of interest between Lutfi Yondri and Danny Hilman. I'm way more interested in the way you guys present this paper and the mockery of it.
+
+[Shows video with Dibble, Lutfi Yondri, and Harry Sofian talking about the paper.](https://youtu.be/-DL1_EMIw6w?t=6243)
+
+In the video Harry Sofian criticize the article for only having one archaeologist, Ali Akbar, while having 11 geologists including Danny Hilman Natawidjaja. Flint criticizes their method of identifying artifacts. **The rest of the clips are so short you can't even be sure of what they even are saying.**
+
+Filnt might have little influence on Youtube but he has a great influence with journalists. In an article with the guardian[^6] he is quoted criticizing the methodology used in Gunung Padang. This is a site that I focused on in the first episode of my Netflix show. Danny Hilman in his peer-reviewed article presents evidence that Gunung Padang at the base of it could be about 25 000 years old.
+
+Because his finding was presented in my show there was an excessive amount of pressure directed against Danny the result of which being the retraction of the paper. Danny asked for criticisms to be published along with the article but alas it was not so.
+
+Flint and his colleagues has created a huge fuss in the media about me \[cites a youtube video from https://www.youtube.com/@Heavenly_Valor with the title "Satan loves Graham Hancock the most" that has been removed. Most popular video from this youtuber is "Satan HATE$ Black People The Most" with 13K views as of 23/4/2024.] 
+
+**J:** Joe correctly points out that you can't connect Flint to this crazy guys youtube channel. This guy would have gone after you even if Flint did nothing.
+
+**F:** The media rarely ever got in touch with me until you announced this conversation over a year ago. Since then I've gotten journalists wanting me to make comments on things related to your show.
+
+**Summary 8:**
+**G:** Flint is not innocent in this media spectacle. He partially fueled the fire in the Gunung Padang controversy that got Danny Hilman Natawidjaja's paper retracted.
+
+**F:** You were the reason for the media taking interest in me after announcing this debate over a year ago.
+
+---
+
+**J:** What evidence is there in Gunung Padang?
+
+**G:** The evidence is years of dedicated work that is published in that paper that was retracted. \[Not an answer, give examples]
+
+**J:** Why were you (Flint) laughing at the tool presented from Gunung Padang?
+
+**F:** Because I don't think it was a tool, it looks nothing like any human made tool I've ever seen. The excavator of the site agrees with me on that assessment as well. The tool was never described in the article. The part of the videos where we go in depth about this subject was cut out of the video Graham presented. [[Summary of Flint Dibble video on Gunung Padang]] 
+
+=======
+>>>>>>> origin/main
 --- 
 [^1] The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes? 
 
@@ -322,3 +360,10 @@ What was done to Jacques Cinq-Mars was definitely an overreaction but is it nece
 
 [^6] [Guardian article about the subject](https://www.theguardian.com/science/2023/dec/16/really-really-weak-experts-attack-claim-that-indonesia-site-is-worlds-oldest-building) 
 [Paper](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912) which has been [retracted](https://onlinelibrary.wiley.com/doi/10.1002/arp.1932) though the authors disagree with the retraction.
+<<<<<<< HEAD
+
+Main issue seem to be that there were no human artifacts next to the material that was carbon-14 dated. Quote by Flint Dibble in article:
+
+“If you went to the Palace of Westminster and dropped a core seven metres into the ground and pulled up a soil sample you might date it as being 40,000 years old,” said Dibble. “But that does not mean the Palace of Westminster was built 40,000 years ago by ancient humans. It just means there’s carbon down there that’s 40,000 years old. It is extraordinary that this paper has been published.”
+=======
+>>>>>>> origin/main
