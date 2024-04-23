@@ -8,7 +8,15 @@ According to the paper Gunung Padang is not a natural hill but a pyramid-like co
 
 Meticulously sculpted andesite is not mentioned anywhere in the paper except for in the conclusion. This statement is therefore not supported with any proof from within the paper.
 
-The evidence does not support the statement that Gunung Padang is a pyramid or pyramid-like. Instead it is a terraced hill. The paper doesn't even provide a definition of a pyramid but the consultant Graham Hancock does. He defines a pyramid as a structure that rises in a series of terraces to a summit and classifies Gunung Padang as a step-pyramid. But looking at the pyramid of Djoser we can see it looks nothing like Gunung Padang.
+The evidence does not support the statement that Gunung Padang is a pyramid or pyramid-like. Instead it is a terraced hill. The paper doesn't even provide a definition of a pyramid but the consultant Graham Hancock does. He defines a pyramid as a structure that rises in a series of terraces to a summit and classifies Gunung Padang as a step-pyramid. Graham's definition would include most human settlements on top of hills. Looking at the pyramid of Djoser we can see it looks nothing like Gunung Padang.
 
 ![[Djoser Pyramid.jpg]]Djoser Pyramid
 
+
+The authors own speculations are included in the diagrams sometimes. Examples of this usually is followed by a question mark like when in their diagram showing the trench they dug and supposed steps one meter away from their dig they point to it with an arrow labeled "Step?"
+
+(Dashed line is trench dug. Dotted line is pure speculation assuming there is a step.)![[Trench Diagram.jpg]]
+
+Another example is from their ERT diagram where they find an area with lower 
+
+![[ERT diagram.jpg]]
