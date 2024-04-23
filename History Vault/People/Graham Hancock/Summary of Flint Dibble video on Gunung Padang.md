@@ -13,10 +13,20 @@ The evidence does not support the statement that Gunung Padang is a pyramid or p
 ![[Djoser Pyramid.jpg]]Djoser Pyramid
 
 
-The authors own speculations are included in the diagrams sometimes. Examples of this usually is followed by a question mark like when in their diagram showing the trench they dug and supposed steps one meter away from their dig they point to it with an arrow labeled "Step?"
+The authors own speculations are included in the diagrams at points. Examples of this usually is followed by a question mark like when in their diagram showing the trench they dug and supposed steps one meter away from their dig they point to it with an arrow labeled "Step?"
 
 (Dashed line is trench dug. Dotted line is pure speculation assuming there is a step.)![[Trench Diagram.jpg]]
 
 Another example is from their ERT diagram where they find an area with lower resistivity and label it as "Tunnel?" There could, of course, be other reasons for low resistivity than the existence of a tunnel. Especially considering the geologic conditions where Gunung Padang lies.
 
 ![[ERT diagram.jpg]]
+
+
+The way they dated Gunung Padang leaves a lot to be desired according to Flint Dibble. The method used involve drilling as deep as 10 meters into the ground from the surface at different locations from the surface. Then using the carbon from these "cores" that was drilled to date the site. The problem with this is that usually the deeper you dig the older the dirt gets. So dating anything requires artifacts from the same level that you get you sample from, something that the authors have not done.
+
+In fact there are very few archaeological artifacts mentioned in the paper.
+
+A problem with the paper is that only one archaeologist is credited as an author. Meanwhile there are 11 geologists listed as authors.
+
+
+
