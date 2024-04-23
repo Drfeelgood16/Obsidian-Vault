@@ -270,7 +270,40 @@ A lot of the work around the Bimini Road comes from an article of Eugene Shinn w
 
 Even if he wasn't sincere joking about it is in bad taste.
 
+**F:** In Histria, what is sometimes referred to as the Romanian Pompeii, when we dug up roads that were found using magnetometry we do not find anything like the Bimini road. Instead we find roads packed with pottery and animal bones in order to increase drainage. With most roads found you will get plenty of artifacts along with them and even if the animal bones might not survive underwater the pottery would. For example in the thousands of shipwrecks that we find most of what is left is the wood the ship is made out of and the pottery that it carried. Finding artifacts along the roads is not only localized to Europe but is found all over the world.
 
+**J:** How much searching has been done at Bimini?
+
+**G:** A great deal of work has been done by amateurs whom have been scorned by archaeologists. I don't claim that the Bimini road is a road, instead that it is a anthropogenic megalithic structure.[^5] All we know is that there are blocks placed next to each other and even some blocks placed on top of other blocks.
+
+The stones weigh a couple of tons each. They measure to about 12 feet on one side and 15 feet on the other. They're fairly uniform in size and in many cases propped up on blocks underneath them. If it was naturally made the bedding plane would slope, instead it is horizontal. This fact has been missed in the geological literature.
+
+**F:** This does not look to me to be man-made. If it were made by a global civilization why have we found no similar architecture anywhere else? Even the places Graham visits in *Ancient Apocalypse* don't look like this.
+
+**J:** We're dealing with different parts of the world right?
+
+**F:** Yeah, that's my point. It is not the same culture. (A single global culture is what we would find if Grahams hypothesis is correct.)
+
+**J:** If you found this structure as a part of a known dated archaeological site wouldn't you think it is man made?
+
+**F:** Not necessarily, for example there was a circular depression right at the middle of a stone structure at this site north of Pylos. There was much debate on whether it was man made or not until geologists observed it and said that it was not man made.
+
+**J:** That's not the same as the structure we find at Bimini.
+
+**Summary 7:**
+**G:** In the sea next to the island of Bimini in the Bahamas there is a structure consisting of stone blocks laid in a row next to each other. This corresponds to a map from the 16th century which sourced more ancient maps that has a road driven in what looks like what Bahamas would have looked like during the ice age.
+
+A lot of the work around Bimini road has been disputed by a single geologist whom I deem not credible considering jokes he has made.
+
+**F:** This doesn't look anything like any ancient road I've seen. For example in Histria the road dug up there is filled with animal bones and shards of pottery to improve drainage. Both of which ought to survive in underwater conditions, especially the pottery. These structures also look nothing like the examples Graham presents in his show *Ancient Apocalypse* which goes against his theory of a global civilization.
+
+**J:** If you were to find this structure next to a known site, wouldn't you think it was man made?
+
+**F:** Not necessarily, there have been similar examples of a perfect circle found in the middle of a stone structure that was proven not to be man made.
+
+---
+
+**G:** Flint is not simply an outside observer in all this controversy. He has for example added fuel to the fire in the recent Homo Naledi controversy. You attempted to smear Lee Berger, but he was too big for you to bring down. Instead you moved on to attack Danny Hilman Natawidjaja who was a smaller and easier target. You portrayed Gunung Padang as a pyramid scheme, which is an insult in itself.[^6]
 
 --- 
 [^1] The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes? 
@@ -284,3 +317,8 @@ What was done to Jacques Cinq-Mars was definitely an overreaction but is it nece
 [^3] https://en.wikipedia.org/wiki/Course_(architecture)
 
 [^4] Flint never even said anything close to this.
+
+[^5] If Bimini road wasn't a road, what was depicted on the map you presented earlier?
+
+[^6] [Guardian article about the subject](https://www.theguardian.com/science/2023/dec/16/really-really-weak-experts-attack-claim-that-indonesia-site-is-worlds-oldest-building) 
+[Paper](https://onlinelibrary.wiley.com/doi/10.1002/arp.1912) which has been [retracted](https://onlinelibrary.wiley.com/doi/10.1002/arp.1932) though the authors disagree with the retraction.
