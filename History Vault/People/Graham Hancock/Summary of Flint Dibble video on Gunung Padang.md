@@ -17,6 +17,6 @@ The authors own speculations are included in the diagrams sometimes. Examples of
 
 (Dashed line is trench dug. Dotted line is pure speculation assuming there is a step.)![[Trench Diagram.jpg]]
 
-Another example is from their ERT diagram where they find an area with lower 
+Another example is from their ERT diagram where they find an area with lower resistivity and label it as "Tunnel?" There could, of course, be other reasons for low resistivity than the existence of a tunnel. Especially considering the geologic conditions where Gunung Padang lies.
 
 ![[ERT diagram.jpg]]
