@@ -379,7 +379,7 @@ We don't have time to go into any of the methods in depth. The results have been
 
 **F:** They never claim anything was manipulated or maneuvered.
 
-**G:** They claim that at the depths of Gunung Padang that the ston is not in its natural formation.
+**G:** They claim that at the depths of Gunung Padang that the stone is not in its natural formation.
 
 **F:** They claim that there is a tunnel with a question mark. In another place they claim that there is a step with a question mark.
 
@@ -387,9 +387,17 @@ We don't have time to go into any of the methods in depth. The results have been
 
 **F:** In archaeology we often do this thing called ground truthing. Case in point is in Histria where we found the road with magnetometry. But before we concluded that the magnetometry was accurate or not we actually dug trenches to test it. This is the case with all remote sensing you always do the work to test your interpretation. Because as scientists you constantly question you interpretation in case it is wrong.
 
+**Summary 9:** 
+
+**G:** The paper written by Danny Hilman et al. is a serious work that shows that there are underground tunnels in Gunung Padang and that the site itself dates to around 25 000 years ago. This paper needs to be taken seriously, not dogged on and dismissed as it has been.
+
+**F:** There are several methodological faults in the paper, which is why it has been retracted. For one there could be several reasons for the area of low resonance, even the authors themselves are not sure it is a chamber. Drilling cores ten meters underground next to monuments on the surfaces, finding and dating the carbon in these cores and exclaiming that the monument is that old is not proper dating. You need to prove some way that the earth that you tested has anything to do with the monument because if you dig down 10 meters anywhere on earth you are most likely going to find earth that is about 25 000 years old.
+
+---
+
 **G:** Back to my presentation of how Flint and his colleagues have immense influence on the media and culture.
 
-\[Shows tweet about an article about how search algorithms favour reward good faith critique using *Ancient Apocalypse* as a case study.]
+Graham then shows a tweet about an article about how search algorithms favour reward good faith critique using *Ancient Apocalypse* as a case study.
 
 \[Next slide cites a google "People also ask" tab that links to a guardian article that misquotes Dibble as saying.]
 
@@ -400,6 +408,12 @@ Meanwhile the article goes:
 “They strip indigenous people of their rich heritage and instead give credit to aliens or white people.”
 
 It is the misquoted part that Graham focuses on.
+
+In the same slide is a BoingBoing article, a youtube comment, and a tweet.
+
+**F:** \[In response to the racism quote] I label your 1600s sources as racist and re-adapting those sources without critiquing them supports this racist 19th century idea of a "white Atlantis." I have never made racism the foreground of anything I have written.
+
+Atlantis was for a long time used as the colonial justification for Spain to claim land in the new world. The idea of Atlantis from the 16th to the 19th century is of a global super power to which was ascribed all the monuments in indigenous areas. By doing so it stripped the natives of these monuments in the eyes of the colonial powers.
 
 
 --- 
