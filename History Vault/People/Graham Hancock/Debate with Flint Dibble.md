@@ -313,6 +313,8 @@ In an interview with Dr. Lutfi Yondri you character assassinated Danny.
 
 [Shows video with Dibble, Lutfi Yondri, and Harry Sofian talking about the paper.](https://youtu.be/-DL1_EMIw6w?t=6243)
 
+Note the dishonest framing of Harry Sofian talking about archaeologists. Completely skipping Harrys point that the clip was leading up to: That archaeologists should tell the truth. [Clip with full context](https://youtu.be/UxaHo3V4lGg?t=2011).
+
 In the video Harry Sofian criticize the article for only having one archaeologist, Ali Akbar, while having 11 geologists including Danny Hilman Natawidjaja. Flint criticizes their method of identifying artifacts. **The rest of the clips are so short you can't even be sure of what they even are saying.**
 
 Flint might have little influence on Youtube but he has a great influence with journalists. In an article with the guardian[^6] he is quoted criticizing the methodology used in Gunung Padang. This is a site that I focused on in the first episode of my Netflix show. Danny Hilman in his peer-reviewed article presents evidence that Gunung Padang at the base of it could be about 25 000 years old.

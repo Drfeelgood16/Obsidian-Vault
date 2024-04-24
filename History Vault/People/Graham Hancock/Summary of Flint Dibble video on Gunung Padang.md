@@ -28,9 +28,14 @@ In fact there are very few archaeological artifacts or ecofacts mentioned in the
 
 ![[Kujang Stone.png]]
 
-There is no mention of the "amulet" that Natawidjaja is supposed to have found in Gunung Padang by Natawidjaja. Probably because they know now that it was simply a coin made in the 1900s. 
+There is no mention of the "amulet" that Natawidjaja is supposed to have found in Gunung Padang by Natawidjaja. Probably because they know now that it was simply a coin made in the 19th century. 
 
-A problem with the paper is that only one archaeologist is credited as an author. Meanwhile there are 11 geologists listed as authors. The authors never got in touch with either Lutfi Yondri or Harry Sofian while Graham Hancock was allowed to review the paper before it was published. The main author
+A problem with the paper is that only one archaeologist is credited as an author. Meanwhile there are 11 geologists listed as authors. The authors never got in touch with either Lutfi Yondri or Harry Sofian while Graham Hancock was allowed to review the paper before it was published. The main author Danny Hilman Natawidjaja is primarily a modern disaster geologist so his expertise is not in archaeological studies.
 
+Danny Hilman Natawidjaja and Ali Akbar (the only archaeologist) have previously published books claiming Gunung Padang as the oldest pyramid to support their theory that Atlantis existed in ancient Indonesia. The books are called *Plato never lied* and *Situs Gunung Padang* respectively. Danny Hilman Natawidjaja invited a speaker called Andrew Collins to introduce Gunung Padang as an ancient pyramid. Andrew Collins is another pseudoarchaeologists who have written books about Göbekli Tepe where he supposedly connects the site to other known historical and mythological things.
+
+The parts of Gunung Padang that Lutfi Yondri has excavated previously dates to about 100 BC at the oldest. In this excavation, unlike the Natawidjaja one, Yondri found many artifacts including pottery and stone mortars.
+
+The geology is good work, the problem is that the conclusion doesn't follow the work.
 
 
