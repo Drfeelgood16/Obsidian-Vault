@@ -1933,19 +1933,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 463,
+      "wordCount": 582,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5433333333333332,
-      "characterCount": 2867,
-      "nonWhitespaceCharacterCount": 2386,
-      "readingTimeInMinutes": 1.7471698113207548,
+      "pageCount": 1.94,
+      "characterCount": 3570,
+      "nonWhitespaceCharacterCount": 2967,
+      "readingTimeInMinutes": 2.1962264150943396,
       "linkCount": 0,
-      "embedCount": 3,
+      "embedCount": 4,
       "aliases": null,
       "createdDate": 1713892079563,
-      "modifiedDate": 1713902578766,
-      "sizeInBytes": 2867
+      "modifiedDate": 1713916390226,
+      "sizeInBytes": 3570
     },
     "People/Graham Hancock/Media/Djoser Pyramid.jpg": {
       "isCountable": false,
@@ -2036,6 +2036,24 @@
       "createdDate": 1713898059261,
       "modifiedDate": 1713898059419,
       "sizeInBytes": 918754
+    },
+    "People/Graham Hancock/Media/Kujang Stone.png": {
+      "isCountable": false,
+      "isDirectory": false,
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1713915717613,
+      "modifiedDate": 1713915717899,
+      "sizeInBytes": 0
     }
   }
 }

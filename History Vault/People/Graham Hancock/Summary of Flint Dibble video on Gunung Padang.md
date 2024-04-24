@@ -24,9 +24,13 @@ Another example is from their ERT diagram where they find an area with lower res
 
 The way they dated Gunung Padang leaves a lot to be desired according to Flint Dibble. The method used involve drilling as deep as 10 meters into the ground from the surface at different locations from the surface. Then using the carbon from these "cores" that was drilled to date the site. The problem with this is that usually the deeper you dig the older the dirt gets. So dating anything requires artifacts from the same level that you get you sample from, something that the authors have not done.
 
-In fact there are very few archaeological artifacts mentioned in the paper.
+In fact there are very few archaeological artifacts or ecofacts mentioned in the paper. Context can only be derived from anthropogenic artifacts and context is needed to properly date something. The only artifact mentioned is a knife-looking object that in the paper is referred to as a *Kujang Stone*. The object itself doesn't really look anything like a Kujang dagger from which it is likened to.
 
-A problem with the paper is that only one archaeologist is credited as an author. Meanwhile there are 11 geologists listed as authors.
+![[Kujang Stone.png]]
+
+There is no mention of the "amulet" that Natawidjaja is supposed to have found in Gunung Padang by Natawidjaja. Probably because they know now that it was simply a coin made in the 1900s. 
+
+A problem with the paper is that only one archaeologist is credited as an author. Meanwhile there are 11 geologists listed as authors. The authors never got in touch with either Lutfi Yondri or Harry Sofian while Graham Hancock was allowed to review the paper before it was published. The main author
 
 
 
