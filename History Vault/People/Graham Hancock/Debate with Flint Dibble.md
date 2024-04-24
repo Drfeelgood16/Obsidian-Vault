@@ -342,6 +342,16 @@ Flint and his colleagues has created a huge fuss in the media about me \[cites a
 
 **F:** Because I don't think it was a tool, it looks nothing like any human made tool I've ever seen. The excavator of the site agrees with me on that assessment as well. The tool was never described in the article. The part of the videos where we go in depth about this subject was cut out of the video Graham presented. [[Summary of Flint Dibble video on Gunung Padang]] 
 
+In the paper they don't even go into detail about this artifact. PArt of the reason why we were laughing about it was because Lutfi Yondri was snubbed after working on that site for several decades.
+
+**G:** The issue here is not that artifact. Danny Hilman has done years of work here with GPR, ERT and ST and his conclusion is that there is a chamber under Gunung Padang.
+
+**F:** Note that there is a question mark after where it says tunnel or chamber.
+
+**G:** My view is that this work needed to be taken much more seriously instead of instantly being dismissed like it has been. Lutfi Yondri has not done any work looking into the depth of Gunung Padang instead focusing only on the topsoil.
+
+We don't have time to go into any of the methods in depth. The results have been published extensively. Danny Hilman has posted a refutation on my website.
+
 --- 
 [^1] The longitude problem require a way to synchronize the time between two distant places. In the past you either used two clocks or some global event like an eclipse. In modern days the telegraph was used and nowadays the longitude is accurate down to a centimeter by the use of satellites. Does he mean that this ancient civilization invented precise chronometers without pendulums so that they could be used at sea, all without metallurgy? Even if they didn't use chronometers are you telling me they had telescopes? 
 
